@@ -1,0 +1,450 @@
+fileFormatVersion: 2
+guid: a30104491d00edf469c7d3b7f049ef5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 120259622955701247
+    second: SwordKirby_JumpAttack 4x_0
+  - first:
+      213: -1084487933770558696
+    second: SwordKirby_JumpAttack 4x_1
+  - first:
+      213: -5383375623742882445
+    second: SwordKirby_JumpAttack 4x_2
+  - first:
+      213: -4791632199962763397
+    second: SwordKirby_JumpAttack 4x_3
+  - first:
+      213: -581575992387559599
+    second: SwordKirby_JumpAttack 4x_4
+  - first:
+      213: -9131362864956278234
+    second: SwordKirby_JumpAttack 4x_5
+  - first:
+      213: 5566629231879983037
+    second: SwordKirby_JumpAttack 4x_6
+  - first:
+      213: -2610690620806499897
+    second: SwordKirby_JumpAttack 4x_7
+  - first:
+      213: -381809004531063050
+    second: SwordKirby_JumpAttack 4x_8
+  - first:
+      213: 1522824890193166618
+    second: SwordKirby_JumpAttack 4x_9
+  - first:
+      213: -4014790773445352082
+    second: SwordKirby_JumpAttack 4x_10
+  - first:
+      213: -2916929592123126663
+    second: SwordKirby_JumpAttack 4x_11
+  - first:
+      213: 8776996165994556804
+    second: SwordKirby_JumpAttack 4x_12
+  - first:
+      213: 1386212132548366572
+    second: SwordKirby_JumpAttack 4x_13
+  - first:
+      213: -1157115202152477927
+    second: SwordKirby_JumpAttack 4x_14
+  - first:
+      213: 2089319290140556072
+    second: SwordKirby_JumpAttack 4x_15
+  - first:
+      213: 931740145862326378
+    second: SwordKirby_JumpAttack 4x_16
+  - first:
+      213: -1085844956426867585
+    second: SwordKirby_JumpAttack 4x_17
+  - first:
+      213: -8123318866868101285
+    second: SwordKirby_JumpAttack 4x_18
+  - first:
+      213: 9135495358427786080
+    second: SwordKirby_JumpAttack 4x_19
+  - first:
+      213: 2588449394062528827
+    second: SwordKirby_JumpAttack 4x_20
+  - first:
+      213: -166779938189789522
+    second: SwordKirby_JumpAttack 4x_21
+  - first:
+      213: 6921484327553110038
+    second: SwordKirby_JumpAttack 4x_22
+  - first:
+      213: -3540902816734280572
+    second: SwordKirby_JumpAttack 4x_23
+  - first:
+      213: -2608164924565127853
+    second: SwordKirby_JumpAttack 4x_24
+  - first:
+      213: 1623371190704970510
+    second: SwordKirby_JumpAttack 4x_25
+  - first:
+      213: -5366780604400348796
+    second: SwordKirby_JumpAttack 4x_26
+  - first:
+      213: -3277902832408175877
+    second: SwordKirby_JumpAttack 4x_27
+  - first:
+      213: -2732230373538493524
+    second: SwordKirby_JumpAttack 4x_28
+  - first:
+      213: 4364623708974650348
+    second: SwordKirby_JumpAttack 4x_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SwordKirby_JumpAttack 4x_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 88
+        width: 132
+        height: 144
+      alignment: 9
+      pivot: {x: 0.75624835, y: 0.3138575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c0da29dfbf487d0800000000000000
+      internalID: -2916929592123126663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_JumpAttack 4x_12
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 104
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.51994395, y: 0.24571598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d221da2872ec970800000000000000
+      internalID: 8776996165994556804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_JumpAttack 4x_13
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 100
+        width: 144
+        height: 132
+      alignment: 9
+      pivot: {x: 0.33158472, y: 0.24858648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0d1ef0790dc3310800000000000000
+      internalID: 1386212132548366572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_JumpAttack 4x_14
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 72
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.21081448, y: 0.49002826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b4f73bad911ffe0800000000000000
+      internalID: -1157115202152477927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_JumpAttack 4x_15
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 32
+        width: 132
+        height: 144
+      alignment: 9
+      pivot: {x: 0.24375176, y: 0.6861429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bf23f13d0cefc10800000000000000
+      internalID: 2089319290140556072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_JumpAttack 4x_16
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 32
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.4700842, y: 0.7891865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a683811e9b43eec00800000000000000
+      internalID: 931740145862326378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_JumpAttack 4x_17
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 32
+        width: 144
+        height: 132
+      alignment: 9
+      pivot: {x: 0.6905763, y: 0.7997627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ce603e3cd4ee0f0800000000000000
+      internalID: -1085844956426867585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_JumpAttack 4x_18
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 64
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.80414486, y: 0.5498599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f191f978c244f80800000000000000
+      internalID: -8123318866868101285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_JumpAttack 4x_19
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 68
+        width: 104
+        height: 164
+      alignment: 9
+      pivot: {x: 0.6718245, y: 0.28596854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b615660acc7ce70800000000000000
+      internalID: 9135495358427786080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: caa6987bb3e010b4cb0d594d5dfd5cde
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      SwordKirby_JumpAttack 4x_0: 120259622955701247
+      SwordKirby_JumpAttack 4x_1: -1084487933770558696
+      SwordKirby_JumpAttack 4x_10: -4014790773445352082
+      SwordKirby_JumpAttack 4x_11: -2916929592123126663
+      SwordKirby_JumpAttack 4x_12: 8776996165994556804
+      SwordKirby_JumpAttack 4x_13: 1386212132548366572
+      SwordKirby_JumpAttack 4x_14: -1157115202152477927
+      SwordKirby_JumpAttack 4x_15: 2089319290140556072
+      SwordKirby_JumpAttack 4x_16: 931740145862326378
+      SwordKirby_JumpAttack 4x_17: -1085844956426867585
+      SwordKirby_JumpAttack 4x_18: -8123318866868101285
+      SwordKirby_JumpAttack 4x_19: 9135495358427786080
+      SwordKirby_JumpAttack 4x_2: -5383375623742882445
+      SwordKirby_JumpAttack 4x_20: 2588449394062528827
+      SwordKirby_JumpAttack 4x_21: -166779938189789522
+      SwordKirby_JumpAttack 4x_22: 6921484327553110038
+      SwordKirby_JumpAttack 4x_23: -3540902816734280572
+      SwordKirby_JumpAttack 4x_24: -2608164924565127853
+      SwordKirby_JumpAttack 4x_25: 1623371190704970510
+      SwordKirby_JumpAttack 4x_26: -5366780604400348796
+      SwordKirby_JumpAttack 4x_27: -3277902832408175877
+      SwordKirby_JumpAttack 4x_28: -2732230373538493524
+      SwordKirby_JumpAttack 4x_29: 4364623708974650348
+      SwordKirby_JumpAttack 4x_3: -4791632199962763397
+      SwordKirby_JumpAttack 4x_4: -581575992387559599
+      SwordKirby_JumpAttack 4x_5: -9131362864956278234
+      SwordKirby_JumpAttack 4x_6: 5566629231879983037
+      SwordKirby_JumpAttack 4x_7: -2610690620806499897
+      SwordKirby_JumpAttack 4x_8: -381809004531063050
+      SwordKirby_JumpAttack 4x_9: 1522824890193166618
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

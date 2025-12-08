@@ -1,0 +1,470 @@
+fileFormatVersion: 2
+guid: 152ec6604fa914049b6dc37866275f14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5933132713157235887
+    second: BomberKirby_Walk 4x_0
+  - first:
+      213: -8731618161029860791
+    second: BomberKirby_Walk 4x_1
+  - first:
+      213: 6422323201907816783
+    second: BomberKirby_Walk 4x_2
+  - first:
+      213: -5435074693459383382
+    second: BomberKirby_Walk 4x_3
+  - first:
+      213: 7584171105452134678
+    second: BomberKirby_Walk 4x_4
+  - first:
+      213: -6593634386426286403
+    second: BomberKirby_Walk 4x_5
+  - first:
+      213: -7910959952589682562
+    second: BomberKirby_Walk 4x_6
+  - first:
+      213: -8991144916894896031
+    second: BomberKirby_Walk 4x_7
+  - first:
+      213: -1390902484255760047
+    second: BomberKirby_Walk 4x_8
+  - first:
+      213: -3770165493393953033
+    second: BomberKirby_Walk 4x_9
+  - first:
+      213: -7221730936998463699
+    second: BomberKirby_Walk 4x_10
+  - first:
+      213: 866305019913756772
+    second: BomberKirby_Walk 4x_11
+  - first:
+      213: -4097991997643577343
+    second: BomberKirby_Walk 4x_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BomberKirby_Walk 4x_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 12
+        width: 140
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa49cfc74c8b65250800000000000000
+      internalID: 5933132713157235887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BomberKirby_Walk 4x_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 20
+        width: 140
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942377d6b8f03d680800000000000000
+      internalID: -8731618161029860791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BomberKirby_Walk 4x_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 24
+        width: 128
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49f67adceca02950800000000000000
+      internalID: 6422323201907816783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BomberKirby_Walk 4x_3
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 24
+        width: 116
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab63a0dc5cb294b0800000000000000
+      internalID: -5435074693459383382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BomberKirby_Walk 4x_4
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 24
+        width: 104
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61191401073604960800000000000000
+      internalID: 7584171105452134678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BomberKirby_Walk 4x_5
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 24
+        width: 104
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbea24ac574be74a0800000000000000
+      internalID: -6593634386426286403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BomberKirby_Walk 4x_6
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 24
+        width: 104
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e780d8156df963290800000000000000
+      internalID: -7910959952589682562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BomberKirby_Walk 4x_7
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 24
+        width: 104
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160bb60d559093380800000000000000
+      internalID: -8991144916894896031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BomberKirby_Walk 4x_8
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 24
+        width: 104
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1512ab45f8582bce0800000000000000
+      internalID: -1390902484255760047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BomberKirby_Walk 4x_9
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 24
+        width: 104
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe61dd757eadabc0800000000000000
+      internalID: -3770165493393953033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BomberKirby_Walk 4x_10
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 24
+        width: 112
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27f1c4a9f147cb90800000000000000
+      internalID: -7221730936998463699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BomberKirby_Walk 4x_11
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 24
+        width: 120
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460e81363dbb50c00800000000000000
+      internalID: 866305019913756772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BomberKirby_Walk 4x_12
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 0
+        width: 24
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108af008df10127c0800000000000000
+      internalID: -4097991997643577343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3418203d0107e704bb25fd360470b4bc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      BomberKirby_Walk 4x_0: 5933132713157235887
+      BomberKirby_Walk 4x_1: -8731618161029860791
+      BomberKirby_Walk 4x_10: -7221730936998463699
+      BomberKirby_Walk 4x_11: 866305019913756772
+      BomberKirby_Walk 4x_12: -4097991997643577343
+      BomberKirby_Walk 4x_2: 6422323201907816783
+      BomberKirby_Walk 4x_3: -5435074693459383382
+      BomberKirby_Walk 4x_4: 7584171105452134678
+      BomberKirby_Walk 4x_5: -6593634386426286403
+      BomberKirby_Walk 4x_6: -7910959952589682562
+      BomberKirby_Walk 4x_7: -8991144916894896031
+      BomberKirby_Walk 4x_8: -1390902484255760047
+      BomberKirby_Walk 4x_9: -3770165493393953033
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

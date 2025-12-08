@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: a23b7d12136749c48967c8411aacdac8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5252828024140311175
+    second: SwordKirby_Jumping2 4x_0
+  - first:
+      213: 1149074708010536384
+    second: SwordKirby_Jumping2 4x_1
+  - first:
+      213: 310491744753945538
+    second: SwordKirby_Jumping2 4x_2
+  - first:
+      213: 796110352027793431
+    second: SwordKirby_Jumping2 4x_3
+  - first:
+      213: 5559988617449306160
+    second: SwordKirby_Jumping2 4x_4
+  - first:
+      213: -2264878119299410183
+    second: SwordKirby_Jumping2 4x_5
+  - first:
+      213: 8420324140294413785
+    second: SwordKirby_Jumping2 4x_6
+  - first:
+      213: -2585729794061253790
+    second: SwordKirby_Jumping2 4x_7
+  - first:
+      213: -9066497563576220542
+    second: SwordKirby_Jumping2 4x_8
+  - first:
+      213: -9179297921309480150
+    second: SwordKirby_Jumping2 4x_9
+  - first:
+      213: -7722424847942742628
+    second: SwordKirby_Jumping2 4x_10
+  - first:
+      213: -1068038572869585654
+    second: SwordKirby_Jumping2 4x_11
+  - first:
+      213: -3683134468185496979
+    second: SwordKirby_Jumping2 4x_12
+  - first:
+      213: 6275382626651511278
+    second: SwordKirby_Jumping2 4x_13
+  - first:
+      213: -2447201625975192476
+    second: SwordKirby_Jumping2 4x_14
+  - first:
+      213: -6467841729947725855
+    second: SwordKirby_Jumping2 4x_15
+  - first:
+      213: -7775855792441996980
+    second: SwordKirby_Jumping2 4x_16
+  - first:
+      213: 5874916284619967927
+    second: SwordKirby_Jumping2 4x_17
+  - first:
+      213: -5826834110308138488
+    second: SwordKirby_Jumping2 4x_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 90
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SwordKirby_Jumping2 4x_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 100
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97556e22eb43a17b0800000000000000
+      internalID: -5252828024140311175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_Jumping2 4x_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 24
+        width: 100
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd8a5fdb5552ff00800000000000000
+      internalID: 1149074708010536384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_Jumping2 4x_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 24
+        width: 84
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb00c7c8961f4400800000000000000
+      internalID: 310491744753945538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_Jumping2 4x_3
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 24
+        width: 88
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718b0aea52a5c0b00800000000000000
+      internalID: 796110352027793431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_Jumping2 4x_4
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 24
+        width: 84
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038f742803c092d40800000000000000
+      internalID: 5559988617449306160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_Jumping2 4x_5
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 24
+        width: 88
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f69a9fa9598190e0800000000000000
+      internalID: -2264878119299410183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_Jumping2 4x_6
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 24
+        width: 92
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd15eb51300bd470800000000000000
+      internalID: 8420324140294413785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_Jumping2 4x_7
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 24
+        width: 92
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263c5dbb374ad1cd0800000000000000
+      internalID: -2585729794061253790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_Jumping2 4x_8
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 24
+        width: 128
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284481690845d2280800000000000000
+      internalID: -9066497563576220542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_Jumping2 4x_9
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 24
+        width: 132
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bedd0bc259c9080800000000000000
+      internalID: -9179297921309480150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_Jumping2 4x_10
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 24
+        width: 140
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d09b5148f64d490800000000000000
+      internalID: -7722424847942742628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_Jumping2 4x_11
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 24
+        width: 136
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0571b1a3909d21f0800000000000000
+      internalID: -1068038572869585654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_Jumping2 4x_12
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 24
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d626ecb17b0e2ecc0800000000000000
+      internalID: -3683134468185496979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 069a79f33d584b0409e4490247542ddc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      SwordKirby_Jumping2 4x_0: -5252828024140311175
+      SwordKirby_Jumping2 4x_1: 1149074708010536384
+      SwordKirby_Jumping2 4x_10: -7722424847942742628
+      SwordKirby_Jumping2 4x_11: -1068038572869585654
+      SwordKirby_Jumping2 4x_12: -3683134468185496979
+      SwordKirby_Jumping2 4x_13: 6275382626651511278
+      SwordKirby_Jumping2 4x_14: -2447201625975192476
+      SwordKirby_Jumping2 4x_15: -6467841729947725855
+      SwordKirby_Jumping2 4x_16: -7775855792441996980
+      SwordKirby_Jumping2 4x_17: 5874916284619967927
+      SwordKirby_Jumping2 4x_18: -5826834110308138488
+      SwordKirby_Jumping2 4x_2: 310491744753945538
+      SwordKirby_Jumping2 4x_3: 796110352027793431
+      SwordKirby_Jumping2 4x_4: 5559988617449306160
+      SwordKirby_Jumping2 4x_5: -2264878119299410183
+      SwordKirby_Jumping2 4x_6: 8420324140294413785
+      SwordKirby_Jumping2 4x_7: -2585729794061253790
+      SwordKirby_Jumping2 4x_8: -9066497563576220542
+      SwordKirby_Jumping2 4x_9: -9179297921309480150
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

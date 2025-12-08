@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: e5ba7f89c99c6b645beb767f6e2a97e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4476249530511342719
+    second: Bomb_Effect 4x_0
+  - first:
+      213: 6577251137672730832
+    second: Bomb_Effect 4x_1
+  - first:
+      213: 7818479407595541055
+    second: Bomb_Effect 4x_2
+  - first:
+      213: 5443795468129847034
+    second: Bomb_Effect 4x_3
+  - first:
+      213: 178944820825627935
+    second: Bomb_Effect 4x_4
+  - first:
+      213: 3347139383143583699
+    second: Bomb_Effect 4x_5
+  - first:
+      213: 2951524813230251691
+    second: Bomb_Effect 4x_6
+  - first:
+      213: 7211454876088857916
+    second: Bomb_Effect 4x_7
+  - first:
+      213: -1135106233563957474
+    second: Bomb_Effect 4x_8
+  - first:
+      213: -4558123256548373702
+    second: Bomb_Effect 4x_9
+  - first:
+      213: -6003944049609280089
+    second: Bomb_Effect 4x_10
+  - first:
+      213: -8212027243802768708
+    second: Bomb_Effect 4x_11
+  - first:
+      213: -2910953686318600807
+    second: Bomb_Effect 4x_12
+  - first:
+      213: 8089807017736426090
+    second: Bomb_Effect 4x_13
+  - first:
+      213: 2950956431178720141
+    second: Bomb_Effect 4x_14
+  - first:
+      213: -1785554552231303433
+    second: Bomb_Effect 4x_15
+  - first:
+      213: 2666012313268276495
+    second: Bomb_Effect 4x_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bomb_Effect 4x_0
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 151
+        width: 114
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c33285b35de1e30800000000000000
+      internalID: 4476249530511342719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Effect 4x_1
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 263
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8548bdf07174b50800000000000000
+      internalID: 6577251137672730832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Effect 4x_2
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 279
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32507dd891d08c60800000000000000
+      internalID: 7818479407595541055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Effect 4x_3
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 259
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6c2c3c22f3c8b40800000000000000
+      internalID: 5443795468129847034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Effect 4x_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 151
+        width: 90
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d15bfcd5dbb7200800000000000000
+      internalID: 178944820825627935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Effect 4x_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 151
+        width: 106
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df4ef9f88d637e20800000000000000
+      internalID: 3347139383143583699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Effect 4x_6
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 227
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae17560e2ce5f820800000000000000
+      internalID: 2951524813230251691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Effect 4x_7
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 151
+        width: 78
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35f80b700c341460800000000000000
+      internalID: 7211454876088857916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Effect 4x_8
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 19
+        width: 74
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17b61605ea4f30f0800000000000000
+      internalID: -1135106233563957474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Effect 4x_9
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 35
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bccf25c0b4eb0c0800000000000000
+      internalID: -4558123256548373702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Effect 4x_10
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 35
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5f7b772b4bdaca0800000000000000
+      internalID: -6003944049609280089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Effect 4x_11
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 71
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba4e4f1bb4090e80800000000000000
+      internalID: -8212027243802768708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Effect 4x_12
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 87
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99dad519b073a97d0800000000000000
+      internalID: -2910953686318600807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Effect 4x_13
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 67
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6254a9fe94c44070800000000000000
+      internalID: 8089807017736426090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Effect 4x_14
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 43
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83ef044d37e3f820800000000000000
+      internalID: 2950956431178720141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Effect 4x_15
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 35
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6eb23589f6837e0800000000000000
+      internalID: -1785554552231303433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb_Effect 4x_16
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 39
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d4c23e2149ff420800000000000000
+      internalID: 2666012313268276495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bomb_Effect 4x_0: 4476249530511342719
+      Bomb_Effect 4x_1: 6577251137672730832
+      Bomb_Effect 4x_10: -6003944049609280089
+      Bomb_Effect 4x_11: -8212027243802768708
+      Bomb_Effect 4x_12: -2910953686318600807
+      Bomb_Effect 4x_13: 8089807017736426090
+      Bomb_Effect 4x_14: 2950956431178720141
+      Bomb_Effect 4x_15: -1785554552231303433
+      Bomb_Effect 4x_16: 2666012313268276495
+      Bomb_Effect 4x_2: 7818479407595541055
+      Bomb_Effect 4x_3: 5443795468129847034
+      Bomb_Effect 4x_4: 178944820825627935
+      Bomb_Effect 4x_5: 3347139383143583699
+      Bomb_Effect 4x_6: 2951524813230251691
+      Bomb_Effect 4x_7: 7211454876088857916
+      Bomb_Effect 4x_8: -1135106233563957474
+      Bomb_Effect 4x_9: -4558123256548373702
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

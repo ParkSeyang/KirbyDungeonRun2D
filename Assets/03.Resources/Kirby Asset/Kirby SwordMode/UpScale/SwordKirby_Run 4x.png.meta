@@ -1,0 +1,340 @@
+fileFormatVersion: 2
+guid: 656415e94be8a3c46845ff0b040e2c3b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4838456195346148182
+    second: SwordKirby_Run 4x_0
+  - first:
+      213: -7462874458918034062
+    second: SwordKirby_Run 4x_1
+  - first:
+      213: 6977331557129851598
+    second: SwordKirby_Run 4x_2
+  - first:
+      213: -4759380809193717938
+    second: SwordKirby_Run 4x_3
+  - first:
+      213: -7174692909587207240
+    second: SwordKirby_Run 4x_4
+  - first:
+      213: -3499215859214993588
+    second: SwordKirby_Run 4x_5
+  - first:
+      213: -7651228211907362497
+    second: SwordKirby_Run 4x_6
+  - first:
+      213: 7215461422591490275
+    second: SwordKirby_Run 4x_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 85
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SwordKirby_Run 4x_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 24
+        width: 124
+        height: 148
+      alignment: 9
+      pivot: {x: 0.7278567, y: 0.22220339}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b25e04646a52340800000000000000
+      internalID: 4838456195346148182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_Run 4x_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 24
+        width: 116
+        height: 148
+      alignment: 9
+      pivot: {x: 0.7395777, y: 0.23159225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275ead8383b8e6890800000000000000
+      internalID: -7462874458918034062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_Run 4x_2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 24
+        width: 104
+        height: 156
+      alignment: 9
+      pivot: {x: 0.6870549, y: 0.20486991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec219de651674d060800000000000000
+      internalID: 6977331557129851598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_Run 4x_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 24
+        width: 104
+        height: 164
+      alignment: 9
+      pivot: {x: 0.67814755, y: 0.21747078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f723dce5843fdb0800000000000000
+      internalID: -4759380809193717938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_Run 4x_4
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 24
+        width: 112
+        height: 160
+      alignment: 9
+      pivot: {x: 0.586847, y: 0.19685331}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb6a87dfce5e6c90800000000000000
+      internalID: -7174692909587207240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_Run 4x_5
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 24
+        width: 100
+        height: 160
+      alignment: 9
+      pivot: {x: 0.6343231, y: 0.21711743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47b31737b9407fc0800000000000000
+      internalID: -3499215859214993588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_Run 4x_6
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 24
+        width: 104
+        height: 152
+      alignment: 9
+      pivot: {x: 0.6647873, y: 0.20721373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3180ddaa7061d590800000000000000
+      internalID: -7651228211907362497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_Run 4x_7
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 24
+        width: 116
+        height: 152
+      alignment: 9
+      pivot: {x: 0.67968327, y: 0.23463921}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8b9184fe7722460800000000000000
+      internalID: 7215461422591490275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 75745c208c3cb5848ad23945a445a9a4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      SwordKirby_Run 4x_0: 4838456195346148182
+      SwordKirby_Run 4x_1: -7462874458918034062
+      SwordKirby_Run 4x_2: 6977331557129851598
+      SwordKirby_Run 4x_3: -4759380809193717938
+      SwordKirby_Run 4x_4: -7174692909587207240
+      SwordKirby_Run 4x_5: -3499215859214993588
+      SwordKirby_Run 4x_6: -7651228211907362497
+      SwordKirby_Run 4x_7: 7215461422591490275
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

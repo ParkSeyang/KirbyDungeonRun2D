@@ -1,0 +1,418 @@
+fileFormatVersion: 2
+guid: e40e126995914c7429a8390423da9bfb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5324538983852283173
+    second: SwordKirby_Walk 4x_0
+  - first:
+      213: -8735400666983357807
+    second: SwordKirby_Walk 4x_1
+  - first:
+      213: -3618940451522785047
+    second: SwordKirby_Walk 4x_2
+  - first:
+      213: 4468175062344330755
+    second: SwordKirby_Walk 4x_3
+  - first:
+      213: -1590723962032553423
+    second: SwordKirby_Walk 4x_4
+  - first:
+      213: -5724665686924426771
+    second: SwordKirby_Walk 4x_5
+  - first:
+      213: -6932985107294421864
+    second: SwordKirby_Walk 4x_6
+  - first:
+      213: 4205122951107538874
+    second: SwordKirby_Walk 4x_7
+  - first:
+      213: -6734020171159322660
+    second: SwordKirby_Walk 4x_8
+  - first:
+      213: -4657310453965258764
+    second: SwordKirby_Walk 4x_9
+  - first:
+      213: -127065197955838267
+    second: SwordKirby_Walk 4x_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 85
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SwordKirby_Walk 4x_0
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 100
+        height: 152
+      alignment: 9
+      pivot: {x: 0.6557326, y: 0.2227292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5251c35ceff84e940800000000000000
+      internalID: 5324538983852283173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_Walk 4x_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 16
+        width: 112
+        height: 148
+      alignment: 9
+      pivot: {x: 0.66927475, y: 0.23789914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1922fb1206f95c680800000000000000
+      internalID: -8735400666983357807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_Walk 4x_2
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 16
+        width: 124
+        height: 148
+      alignment: 9
+      pivot: {x: 0.7074979, y: 0.22874932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e051b355d0f6cdc0800000000000000
+      internalID: -3618940451522785047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_Walk 4x_3
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 16
+        width: 128
+        height: 148
+      alignment: 9
+      pivot: {x: 0.71159315, y: 0.27449906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30eea49bb85220e30800000000000000
+      internalID: 4468175062344330755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_Walk 4x_4
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 16
+        width: 128
+        height: 148
+      alignment: 9
+      pivot: {x: 0.70101357, y: 0.27907398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132095b0cfc9ce9e0800000000000000
+      internalID: -1590723962032553423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_Walk 4x_5
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 16
+        width: 112
+        height: 152
+      alignment: 9
+      pivot: {x: 0.6874117, y: 0.24054769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1800963e6ed80b0800000000000000
+      internalID: -5724665686924426771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_Walk 4x_6
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 16
+        width: 96
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5916907, y: 0.24740109}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c74a607c619cf90800000000000000
+      internalID: -6932985107294421864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_Walk 4x_7
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 16
+        width: 92
+        height: 152
+      alignment: 9
+      pivot: {x: 0.6545556, y: 0.2227294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf6b995b099b5a30800000000000000
+      internalID: 4205122951107538874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_Walk 4x_8
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 16
+        width: 92
+        height: 160
+      alignment: 9
+      pivot: {x: 0.6545556, y: 0.24121606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfbbbb2554fb82a0800000000000000
+      internalID: -6734020171159322660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_Walk 4x_9
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 16
+        width: 112
+        height: 164
+      alignment: 9
+      pivot: {x: 0.61486596, y: 0.24358991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffffae41d8ed5fb0800000000000000
+      internalID: -4657310453965258764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_Walk 4x_10
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 16
+        width: 100
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5744812, y: 0.24306041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce078c20e29c3ef0800000000000000
+      internalID: -127065197955838267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a9a22bb12c76f4d4cbffe6b05e11f01a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      SwordKirby_Walk 4x_0: 5324538983852283173
+      SwordKirby_Walk 4x_1: -8735400666983357807
+      SwordKirby_Walk 4x_10: -127065197955838267
+      SwordKirby_Walk 4x_2: -3618940451522785047
+      SwordKirby_Walk 4x_3: 4468175062344330755
+      SwordKirby_Walk 4x_4: -1590723962032553423
+      SwordKirby_Walk 4x_5: -5724665686924426771
+      SwordKirby_Walk 4x_6: -6932985107294421864
+      SwordKirby_Walk 4x_7: 4205122951107538874
+      SwordKirby_Walk 4x_8: -6734020171159322660
+      SwordKirby_Walk 4x_9: -4657310453965258764
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
