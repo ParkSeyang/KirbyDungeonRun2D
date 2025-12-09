@@ -7,41 +7,45 @@ using System.Collections.Generic;
 public class Player: PlayerStat
 {
     [SerializeField] public AbilityType PlayerAbility;
-    public static Player instancePlayer;
+    public static Player instance;
     
     public void Awake()
     {
-        if (instancePlayer == null)
+        if (instance == null)
         {
-            instancePlayer = this;
+            instance = this;
         }
         else
         {
             Destroy(gameObject);
         }
         
-        StatSetting();
+        Hp = 100.0f;
+        Life = 3;
         
+        StatSetting();
     }
 
     public void StatSetting()
     {
         
-        Hp = 100.0f;
-        Life = 3;
         switch (PlayerAbility)
         {
             case AbilityType.Normal:
-                Attack = 5;
+                Name = "NormalKirby";
+                Attack = 5.0f;
                 break;
             case AbilityType.Sword:
-                Attack = 15;
+                name = "SwordKirby";
+                Attack = 15.0f;
                 break;
             case AbilityType.Cutter:
-                Attack = 12;
+                name = "CutterKirby";
+                Attack = 12.0f;
                 break;
             case AbilityType.Bomber:
-                Attack = 20;
+                name = "BomberKirby";
+                Attack = 20.0f;
                 break;
             default:
                 break;

@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: FatKirby_Eating
+  m_Name: SwordKirby_FlyCancel
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -21,17 +21,13 @@ AnimationClip:
   - serializedVersion: 2
     curve:
     - time: 0
-      value: {fileID: 7405852552748959117, guid: 44b6780540428ff4c9801a84dec2fc09, type: 3}
+      value: {fileID: -8229892846958464333, guid: dad662e699370b9459d6fc1a15f6bd71, type: 3}
     - time: 0.083333336
-      value: {fileID: 359921696610638514, guid: 44b6780540428ff4c9801a84dec2fc09, type: 3}
+      value: {fileID: 8819007690369697221, guid: 9403271f7e74a6e4f98992c4b35bc106, type: 3}
     - time: 0.16666667
-      value: {fileID: -5351047379556678713, guid: 44b6780540428ff4c9801a84dec2fc09, type: 3}
+      value: {fileID: -1932729253061833485, guid: 9403271f7e74a6e4f98992c4b35bc106, type: 3}
     - time: 0.25
-      value: {fileID: -8904651843175721220, guid: 44b6780540428ff4c9801a84dec2fc09, type: 3}
-    - time: 0.33333334
-      value: {fileID: 8215962324477005395, guid: 44b6780540428ff4c9801a84dec2fc09, type: 3}
-    - time: 0.41666666
-      value: {fileID: 4758108196389377839, guid: 44b6780540428ff4c9801a84dec2fc09, type: 3}
+      value: {fileID: -4499825326610098773, guid: dad662e699370b9459d6fc1a15f6bd71, type: 3}
     attribute: m_Sprite
     path: Character
     classID: 212
@@ -54,23 +50,21 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: 7405852552748959117, guid: 44b6780540428ff4c9801a84dec2fc09, type: 3}
-    - {fileID: 359921696610638514, guid: 44b6780540428ff4c9801a84dec2fc09, type: 3}
-    - {fileID: -5351047379556678713, guid: 44b6780540428ff4c9801a84dec2fc09, type: 3}
-    - {fileID: -8904651843175721220, guid: 44b6780540428ff4c9801a84dec2fc09, type: 3}
-    - {fileID: 8215962324477005395, guid: 44b6780540428ff4c9801a84dec2fc09, type: 3}
-    - {fileID: 4758108196389377839, guid: 44b6780540428ff4c9801a84dec2fc09, type: 3}
+    - {fileID: -8229892846958464333, guid: dad662e699370b9459d6fc1a15f6bd71, type: 3}
+    - {fileID: 8819007690369697221, guid: 9403271f7e74a6e4f98992c4b35bc106, type: 3}
+    - {fileID: -1932729253061833485, guid: 9403271f7e74a6e4f98992c4b35bc106, type: 3}
+    - {fileID: -4499825326610098773, guid: dad662e699370b9459d6fc1a15f6bd71, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.43333334
+    m_StopTime: 0.26666668
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
     m_HasAdditiveReferencePose: 0
-    m_LoopTime: 0
+    m_LoopTime: 1
     m_LoopBlend: 0
     m_LoopBlendOrientation: 0
     m_LoopBlendPositionY: 0

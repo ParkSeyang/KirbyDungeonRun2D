@@ -1,28 +1,19 @@
 fileFormatVersion: 2
-guid: af410b6456d6dc94687f93ec8aacc8ea
+guid: df56979186968bb4e8b3b62b97bf4d82
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 672722121843166730
-    second: SwordKirby_Flying 4x_0
+      213: -4283637289977353985
+    second: CutterKirby_FlyCancel 4x_0
   - first:
-      213: -4986455559291876663
-    second: SwordKirby_Flying 4x_1
+      213: -8429050757866735988
+    second: CutterKirby_FlyCancel 4x_1
   - first:
-      213: -2210011276295306148
-    second: SwordKirby_Flying 4x_2
+      213: -6761267123494356855
+    second: CutterKirby_FlyCancel 4x_2
   - first:
-      213: -2617490381432629993
-    second: SwordKirby_Flying 4x_3
-  - first:
-      213: 4242311020188634823
-    second: SwordKirby_Flying 4x_4
-  - first:
-      213: -1845893592143384348
-    second: SwordKirby_Flying 4x_5
-  - first:
-      213: -184840792535598174
-    second: SwordKirby_Flying 4x_6
+      213: -835040480048376605
+    second: CutterKirby_FlyCancel 4x_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -131,155 +122,89 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SwordKirby_Flying 4x_0
+      name: CutterKirby_FlyCancel 4x_0
       rect:
         serializedVersion: 2
-        x: 40
-        y: 44
-        width: 108
-        height: 184
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 19
+        y: 39
+        width: 138
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a0e4201a43df55900800000000000000
-      internalID: 672722121843166730
+      spriteID: ff8684894967d84c0800000000000000
+      internalID: -4283637289977353985
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SwordKirby_Flying 4x_1
+      name: CutterKirby_FlyCancel 4x_1
       rect:
         serializedVersion: 2
-        x: 200
-        y: 44
-        width: 108
-        height: 184
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 207
+        y: 39
+        width: 118
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9cac224961d8ccab0800000000000000
-      internalID: -4986455559291876663
+      spriteID: c86bd97aefef50b80800000000000000
+      internalID: -8429050757866735988
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SwordKirby_Flying 4x_2
+      name: CutterKirby_FlyCancel 4x_2
       rect:
         serializedVersion: 2
-        x: 356
-        y: 44
-        width: 108
-        height: 184
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 367
+        y: 39
+        width: 118
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c548fce04767451e0800000000000000
-      internalID: -2210011276295306148
+      spriteID: 9887798bf572b22a0800000000000000
+      internalID: -6761267123494356855
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SwordKirby_Flying 4x_3
+      name: CutterKirby_FlyCancel 4x_3
       rect:
         serializedVersion: 2
-        x: 516
-        y: 44
-        width: 108
-        height: 184
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 527
+        y: 39
+        width: 110
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 715d4bbbd5eccabd0800000000000000
-      internalID: -2617490381432629993
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SwordKirby_Flying 4x_4
-      rect:
-        serializedVersion: 2
-        x: 688
-        y: 44
-        width: 112
-        height: 180
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7ce81196567bfda30800000000000000
-      internalID: 4242311020188634823
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SwordKirby_Flying 4x_5
-      rect:
-        serializedVersion: 2
-        x: 836
-        y: 44
-        width: 112
-        height: 180
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4e0bf13de811266e0800000000000000
-      internalID: -1845893592143384348
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SwordKirby_Flying 4x_6
-      rect:
-        serializedVersion: 2
-        x: 988
-        y: 44
-        width: 108
-        height: 180
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2abf9ec47405f6df0800000000000000
-      internalID: -184840792535598174
+      spriteID: 3e415ad8b175964f0800000000000000
+      internalID: -835040480048376605
       vertices: []
       indices: 
       edges: []
@@ -288,7 +213,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 708c8aee478eec94d884dfb5a9be2dc4
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -296,17 +221,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      SwordKirby_Flying 4x_0: 672722121843166730
-      SwordKirby_Flying 4x_1: -4986455559291876663
-      SwordKirby_Flying 4x_2: -2210011276295306148
-      SwordKirby_Flying 4x_3: -2617490381432629993
-      SwordKirby_Flying 4x_4: 4242311020188634823
-      SwordKirby_Flying 4x_5: -1845893592143384348
-      SwordKirby_Flying 4x_6: -184840792535598174
+      CutterKirby_FlyCancel 4x_0: -4283637289977353985
+      CutterKirby_FlyCancel 4x_1: -8429050757866735988
+      CutterKirby_FlyCancel 4x_2: -6761267123494356855
+      CutterKirby_FlyCancel 4x_3: -835040480048376605
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

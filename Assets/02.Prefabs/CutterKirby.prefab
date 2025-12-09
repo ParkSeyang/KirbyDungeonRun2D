@@ -10,8 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 5412816079142327196}
   - component: {fileID: 8628386272257298861}
-  - component: {fileID: 5519384035434848629}
-  - component: {fileID: 957671786629538007}
   m_Layer: 0
   m_Name: Character
   m_TagString: Untagged
@@ -92,111 +90,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!60 &5519384035434848629
-PolygonCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1961443523983437644}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0}
-    oldSize: {x: 1.0285715, y: 1.2190477}
-    newSize: {x: 1.0285715, y: 1.2190477}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Points:
-    m_Paths:
-    - - {x: 0.51428574, y: 0.49523813}
-      - {x: 0.50476193, y: 0.54285717}
-      - {x: 0.51428574, y: 0.6}
-      - {x: 0.51428574, y: 0.83809525}
-      - {x: 0.44761905, y: 0.9047619}
-      - {x: 0.37142858, y: 0.9428572}
-      - {x: 0.2952381, y: 1.0190476}
-      - {x: 0.2, y: 1.0190476}
-      - {x: 0.16190477, y: 0.98095244}
-      - {x: 0.22857144, y: 1.1428572}
-      - {x: 0.22857144, y: 1.2190477}
-      - {x: -0.05714286, y: 1.2190477}
-      - {x: -0.104761906, y: 1.2}
-      - {x: -0.18095239, y: 1.1333333}
-      - {x: -0.2857143, y: 0.9333334}
-      - {x: -0.32380953, y: 0.97142863}
-      - {x: -0.43809524, y: 0.97142863}
-      - {x: -0.4571429, y: 0.952381}
-      - {x: -0.4571429, y: 0.60952383}
-      - {x: -0.43809524, y: 0.5904762}
-      - {x: -0.41904762, y: 0.51428574}
-      - {x: -0.51428574, y: 0.51428574}
-      - {x: -0.51428574, y: 0.35238096}
-      - {x: -0.3904762, y: 0.22857144}
-      - {x: -0.41904762, y: 0.15238096}
-      - {x: -0.42857143, y: 0.02857143}
-      - {x: -0.4, y: 0}
-      - {x: 0.03809524, y: 0}
-      - {x: 0.03809524, y: 0.01904762}
-      - {x: 0.48571432, y: 0.00952381}
-      - {x: 0.51428574, y: 0.03809524}
-  m_UseDelaunayMesh: 0
---- !u!50 &957671786629538007
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1961443523983437644}
-  m_BodyType: 0
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!1 &3870279687058118625
 GameObject:
   m_ObjectHideFlags: 0
@@ -261,9 +154,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 327777597077143420}
-  - component: {fileID: 2172687094534463463}
-  - component: {fileID: 8076500356749318947}
-  - component: {fileID: 2391209716490045748}
   m_Layer: 0
   m_Name: CutterKirby
   m_TagString: Untagged
@@ -287,57 +177,3 @@ Transform:
   - {fileID: 5734963120837660355}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2172687094534463463
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6503505063997240604}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf1754e59db0e8847a8520c5fb4a10d8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Player
-  PlayerAbility: 2
---- !u!114 &8076500356749318947
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6503505063997240604}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5c47153762d34cf4baad83bbad293800, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PlayerController
-  KirbySprite: {fileID: 0}
-  moveSpeed: 2
-  runSpeed: 3
-  JumpHeight: 1
-  JumpUpPower: 1
-  downGravity: 3
-  breatheCheckBox: {fileID: 0}
-  isBreathe: 0
-  timeChecker: 0
-  currentActionState: 0
-  groundChecker: {fileID: 0}
-  groundCheckerRadius: 0.1
-  groundLayer:
-    serializedVersion: 2
-    m_Bits: 0
-  isGrounded: 1
---- !u!114 &2391209716490045748
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6503505063997240604}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4992325b5bc83404bb50dab6195cd538, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PlayerAbilitySystem
-  Abilities: []
