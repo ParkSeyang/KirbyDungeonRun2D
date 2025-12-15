@@ -208,7 +208,7 @@ TextureImporter:
         width: 132
         height: 144
       alignment: 9
-      pivot: {x: 0.75624835, y: 0.3138575}
+      pivot: {x: 0.8384413, y: 0.31467023}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -230,7 +230,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 9
-      pivot: {x: 0.51994395, y: 0.24571598}
+      pivot: {x: 0.5, y: 0.16952276}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -252,7 +252,7 @@ TextureImporter:
         width: 144
         height: 132
       alignment: 9
-      pivot: {x: 0.33158472, y: 0.24858648}
+      pivot: {x: 0.29169738, y: 0.20789973}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -274,7 +274,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 9
-      pivot: {x: 0.21081448, y: 0.49002826}
+      pivot: {x: 0.17591238, y: 0.5035831}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -296,7 +296,7 @@ TextureImporter:
         width: 132
         height: 144
       alignment: 9
-      pivot: {x: 0.24375176, y: 0.6861429}
+      pivot: {x: 0.16639386, y: 0.70911574}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -318,7 +318,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 9
-      pivot: {x: 0.4700842, y: 0.7891865}
+      pivot: {x: 0.41523838, y: 0.87254477}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -340,7 +340,7 @@ TextureImporter:
         width: 144
         height: 132
       alignment: 9
-      pivot: {x: 0.6905763, y: 0.7997627}
+      pivot: {x: 0.70387185, y: 0.846104}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -362,7 +362,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 9
-      pivot: {x: 0.80414486, y: 0.5498599}
+      pivot: {x: 0.8390465, y: 0.5733863}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -383,8 +383,8 @@ TextureImporter:
         y: 68
         width: 104
         height: 164
-      alignment: 9
-      pivot: {x: 0.6718245, y: 0.28596854}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -411,7 +411,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       SwordKirby_JumpAttack 4x_0: 120259622955701247
       SwordKirby_JumpAttack 4x_1: -1084487933770558696

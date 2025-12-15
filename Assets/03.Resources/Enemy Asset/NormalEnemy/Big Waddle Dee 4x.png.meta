@@ -1,0 +1,1872 @@
+fileFormatVersion: 2
+guid: 40f52d99ca97e6e4e92d8372bc6b2712
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 299788840402512256
+    second: Big Waddle Dee 4x_0
+  - first:
+      213: 8398426424717234792
+    second: Big Waddle Dee 4x_1
+  - first:
+      213: 2230823899167229788
+    second: Big Waddle Dee 4x_2
+  - first:
+      213: -7044371449318920988
+    second: Big Waddle Dee 4x_3
+  - first:
+      213: -5669109070437847106
+    second: Big Waddle Dee 4x_4
+  - first:
+      213: 3154797951114405536
+    second: Big Waddle Dee 4x_5
+  - first:
+      213: 1294638986942616825
+    second: Big Waddle Dee 4x_6
+  - first:
+      213: -458675384221885314
+    second: Big Waddle Dee 4x_7
+  - first:
+      213: 2677256497189711836
+    second: Big Waddle Dee 4x_8
+  - first:
+      213: -7437886584701968122
+    second: Big Waddle Dee 4x_9
+  - first:
+      213: -8077457836078575176
+    second: Big Waddle Dee 4x_10
+  - first:
+      213: -2220575544273847848
+    second: Big Waddle Dee 4x_11
+  - first:
+      213: 8917990333668519285
+    second: Big Waddle Dee 4x_12
+  - first:
+      213: 1281873211128381303
+    second: Big Waddle Dee 4x_13
+  - first:
+      213: 6092480893785616287
+    second: Big Waddle Dee 4x_14
+  - first:
+      213: 8567354360324565662
+    second: Big Waddle Dee 4x_15
+  - first:
+      213: -1035031122998567458
+    second: Big Waddle Dee 4x_16
+  - first:
+      213: 2856615172882226860
+    second: Big Waddle Dee 4x_17
+  - first:
+      213: -3669776734313791026
+    second: Big Waddle Dee 4x_18
+  - first:
+      213: -7295507710582720115
+    second: Big Waddle Dee 4x_19
+  - first:
+      213: 2741227762624267295
+    second: Big Waddle Dee 4x_20
+  - first:
+      213: 958454712597635728
+    second: Big Waddle Dee 4x_21
+  - first:
+      213: -7212235741125457110
+    second: Big Waddle Dee 4x_22
+  - first:
+      213: 9117457336917044728
+    second: Big Waddle Dee 4x_23
+  - first:
+      213: -8531880529138686937
+    second: Big Waddle Dee 4x_24
+  - first:
+      213: -90509589115099348
+    second: Big Waddle Dee 4x_25
+  - first:
+      213: -2105703441940381956
+    second: Big Waddle Dee 4x_26
+  - first:
+      213: 3157697315049315664
+    second: Big Waddle Dee 4x_27
+  - first:
+      213: -8651187690918305951
+    second: Big Waddle Dee 4x_28
+  - first:
+      213: -8942530837341585914
+    second: Big Waddle Dee 4x_29
+  - first:
+      213: 6345449640822857362
+    second: Big Waddle Dee 4x_30
+  - first:
+      213: 9141879140665140585
+    second: Big Waddle Dee 4x_31
+  - first:
+      213: 4144150784899528160
+    second: Big Waddle Dee 4x_32
+  - first:
+      213: 5888549821518388878
+    second: Big Waddle Dee 4x_33
+  - first:
+      213: -8316915764203301042
+    second: Big Waddle Dee 4x_34
+  - first:
+      213: -1301636473587635255
+    second: Big Waddle Dee 4x_35
+  - first:
+      213: -4707239770557839445
+    second: Big Waddle Dee 4x_36
+  - first:
+      213: 8467172855085802175
+    second: Big Waddle Dee 4x_37
+  - first:
+      213: -1838103197949658530
+    second: Big Waddle Dee 4x_38
+  - first:
+      213: 237020946018874491
+    second: Big Waddle Dee 4x_39
+  - first:
+      213: 9054468514224669792
+    second: Big Waddle Dee 4x_40
+  - first:
+      213: 3061071874921127170
+    second: Big Waddle Dee 4x_41
+  - first:
+      213: -8099313206282197586
+    second: Big Waddle Dee 4x_42
+  - first:
+      213: 3319261037294405544
+    second: Big Waddle Dee 4x_43
+  - first:
+      213: 7412688919441906071
+    second: Big Waddle Dee 4x_44
+  - first:
+      213: 2377813027997521877
+    second: Big Waddle Dee 4x_45
+  - first:
+      213: -9041024591168414694
+    second: Big Waddle Dee 4x_46
+  - first:
+      213: -7665355854087860054
+    second: Big Waddle Dee 4x_47
+  - first:
+      213: -7080019406124932832
+    second: Big Waddle Dee 4x_48
+  - first:
+      213: -7910961129045950123
+    second: Big Waddle Dee 4x_49
+  - first:
+      213: 7519011804896809792
+    second: Big Waddle Dee 4x_50
+  - first:
+      213: -4684088949766373888
+    second: Big Waddle Dee 4x_51
+  - first:
+      213: 4032104380203697390
+    second: Big Waddle Dee 4x_52
+  - first:
+      213: -4485490699364036161
+    second: Big Waddle Dee 4x_53
+  - first:
+      213: -3627069066025593846
+    second: Big Waddle Dee 4x_54
+  - first:
+      213: -3146910898708160305
+    second: Big Waddle Dee 4x_55
+  - first:
+      213: 7653241079489450946
+    second: Big Waddle Dee 4x_56
+  - first:
+      213: -4465501723729690322
+    second: Big Waddle Dee 4x_57
+  - first:
+      213: 1974925404856965762
+    second: Big Waddle Dee 4x_58
+  - first:
+      213: 5223090611817848103
+    second: Big Waddle Dee 4x_59
+  - first:
+      213: -5155838933428185680
+    second: Big Waddle Dee 4x_60
+  - first:
+      213: 2564672656836824635
+    second: Big Waddle Dee 4x_61
+  - first:
+      213: -5072773911881431898
+    second: Big Waddle Dee 4x_62
+  - first:
+      213: 8201642766108957411
+    second: Big Waddle Dee 4x_63
+  - first:
+      213: -1186868526941650889
+    second: Big Waddle Dee 4x_64
+  - first:
+      213: -7897485115783995013
+    second: Big Waddle Dee 4x_65
+  - first:
+      213: 7082342373988624789
+    second: Big Waddle Dee 4x_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 315
+        width: 142
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08961dbac50192400800000000000000
+      internalID: 299788840402512256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 315
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862568526543d8470800000000000000
+      internalID: 8398426424717234792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 315
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c578052548a75fe10800000000000000
+      internalID: 2230823899167229788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_3
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 315
+        width: 118
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec21715d7d5d3e90800000000000000
+      internalID: -7044371449318920988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_4
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 315
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf6b9f26574351b0800000000000000
+      internalID: -5669109070437847106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 163
+        width: 130
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6ed4e850818cb20800000000000000
+      internalID: 3154797951114405536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 163
+        width: 142
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f41611ac4b77f110800000000000000
+      internalID: 1294638986942616825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_7
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 203
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c1d301b2572a9f0800000000000000
+      internalID: -458675384221885314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_8
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 227
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf69977996872520800000000000000
+      internalID: 2677256497189711836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_9
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 203
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601223f0f8157c890800000000000000
+      internalID: -7437886584701968122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_10
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 203
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b15750f4ea17ef80800000000000000
+      internalID: -8077457836078575176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_11
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 203
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d933aebe4eee21e0800000000000000
+      internalID: -2220575544273847848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_12
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 203
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57dedac75f013cb70800000000000000
+      internalID: 8917990333668519285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_13
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 203
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f7564d4e02ac110800000000000000
+      internalID: 1281873211128381303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_14
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 203
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f22f2f717dc8450800000000000000
+      internalID: 6092480893785616287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_15
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 195
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a2a00266b55e670800000000000000
+      internalID: 8567354360324565662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_16
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 203
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd523e6da4d2a1f0800000000000000
+      internalID: -1035031122998567458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_17
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 203
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caed2af5d5cb4a720800000000000000
+      internalID: 2856615172882226860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_18
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 203
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1cb32e085521dc0800000000000000
+      internalID: -3669776734313791026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_19
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 203
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89f796f36621ca90800000000000000
+      internalID: -7295507710582720115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_20
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 155
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1488af502cca0620800000000000000
+      internalID: 2741227762624267295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_21
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 179
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0926ea5ab7d1d4d00800000000000000
+      internalID: 958454712597635728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_22
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 155
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b47d53ecdf8eb90800000000000000
+      internalID: -7212235741125457110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_23
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 155
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd28bd3427b78e70800000000000000
+      internalID: 9117457336917044728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_24
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 155
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724ed92dcdba89980800000000000000
+      internalID: -8531880529138686937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_25
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 155
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27270c12027ebef0800000000000000
+      internalID: -90509589115099348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_26
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 155
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe73d440e907c2e0800000000000000
+      internalID: -2105703441940381956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_27
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 155
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d18b35af462db20800000000000000
+      internalID: 3157697315049315664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_28
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 155
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f159d81aec0f780800000000000000
+      internalID: -8651187690918305951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_29
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 147
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e374f359fb5e380800000000000000
+      internalID: -8942530837341585914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_30
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 147
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e506524d09f0850800000000000000
+      internalID: 6345449640822857362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_31
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 155
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96526e684aa7ede70800000000000000
+      internalID: 9141879140665140585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_32
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 155
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5b795ae2bf28930800000000000000
+      internalID: 4144150784899528160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_33
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 155
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e1bc12dd458b150800000000000000
+      internalID: 5888549821518388878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_34
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 147
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47d0d76d21649c80800000000000000
+      internalID: -8316915764203301042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_35
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 155
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbed1d0688afede0800000000000000
+      internalID: -1301636473587635255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_36
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 155
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba70f436e568caeb0800000000000000
+      internalID: -4707239770557839445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_37
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 11
+        width: 142
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb22837c9d0718570800000000000000
+      internalID: 8467172855085802175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_38
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 107
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a73b151eebd76e0800000000000000
+      internalID: -1838103197949658530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_39
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 131
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7438cb6b411a4300800000000000000
+      internalID: 237020946018874491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_40
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 107
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064025c142fe7ad70800000000000000
+      internalID: 9054468514224669792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_41
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 107
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ddc98e6ac1b7a20800000000000000
+      internalID: 3061071874921127170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_42
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 107
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea56be60d85799f80800000000000000
+      internalID: -8099313206282197586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_43
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 131
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a74ab4c352601e20800000000000000
+      internalID: 3319261037294405544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_44
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 107
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7991fc15c492fd660800000000000000
+      internalID: 7412688919441906071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_45
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 11
+        width: 130
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7961cc950bff020800000000000000
+      internalID: 2377813027997521877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_46
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 107
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cd5d52904d78280800000000000000
+      internalID: -9041024591168414694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_47
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 99
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0d128a67f2f9590800000000000000
+      internalID: -7665355854087860054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_48
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 99
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0212d079cd7bebd90800000000000000
+      internalID: -7080019406124932832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_49
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 107
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5510b4764ce963290800000000000000
+      internalID: -7910961129045950123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_50
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 99
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043d7dc2665e85860800000000000000
+      internalID: 7519011804896809792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_51
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 107
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00eb7d4eae5cefeb0800000000000000
+      internalID: -4684088949766373888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_52
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 107
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4865f1299e4f730800000000000000
+      internalID: 4032104380203697390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_53
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 107
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1961d59f550c1c0800000000000000
+      internalID: -4485490699364036161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_54
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 99
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a049cb7c6ef0aadc0800000000000000
+      internalID: -3627069066025593846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_55
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 59
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0e1bee53de354d0800000000000000
+      internalID: -3146910898708160305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_56
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c355639636c53a60800000000000000
+      internalID: 7653241079489450946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_57
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 59
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21823d67d95702c0800000000000000
+      internalID: -4465501723729690322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_58
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ad46e2138586b10800000000000000
+      internalID: 1974925404856965762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_59
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 59
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d94130d352c7840800000000000000
+      internalID: 5223090611817848103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_60
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 59
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b552ed8ec7c278b0800000000000000
+      internalID: -5155838933428185680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_61
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 59
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e8ae3713c879320800000000000000
+      internalID: 2564672656836824635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_62
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 59
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4407cf003e999b0800000000000000
+      internalID: -5072773911881431898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_63
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 59
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea939044a612d170800000000000000
+      internalID: 8201642766108957411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_64
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 59
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7304d80fc55678fe0800000000000000
+      internalID: -1186868526941650889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_65
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 59
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71a2ce312f766290800000000000000
+      internalID: -7897485115783995013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x_66
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 59
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599e9438dd8894260800000000000000
+      internalID: 7082342373988624789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Big Waddle Dee 4x_0: 299788840402512256
+      Big Waddle Dee 4x_1: 8398426424717234792
+      Big Waddle Dee 4x_10: -8077457836078575176
+      Big Waddle Dee 4x_11: -2220575544273847848
+      Big Waddle Dee 4x_12: 8917990333668519285
+      Big Waddle Dee 4x_13: 1281873211128381303
+      Big Waddle Dee 4x_14: 6092480893785616287
+      Big Waddle Dee 4x_15: 8567354360324565662
+      Big Waddle Dee 4x_16: -1035031122998567458
+      Big Waddle Dee 4x_17: 2856615172882226860
+      Big Waddle Dee 4x_18: -3669776734313791026
+      Big Waddle Dee 4x_19: -7295507710582720115
+      Big Waddle Dee 4x_2: 2230823899167229788
+      Big Waddle Dee 4x_20: 2741227762624267295
+      Big Waddle Dee 4x_21: 958454712597635728
+      Big Waddle Dee 4x_22: -7212235741125457110
+      Big Waddle Dee 4x_23: 9117457336917044728
+      Big Waddle Dee 4x_24: -8531880529138686937
+      Big Waddle Dee 4x_25: -90509589115099348
+      Big Waddle Dee 4x_26: -2105703441940381956
+      Big Waddle Dee 4x_27: 3157697315049315664
+      Big Waddle Dee 4x_28: -8651187690918305951
+      Big Waddle Dee 4x_29: -8942530837341585914
+      Big Waddle Dee 4x_3: -7044371449318920988
+      Big Waddle Dee 4x_30: 6345449640822857362
+      Big Waddle Dee 4x_31: 9141879140665140585
+      Big Waddle Dee 4x_32: 4144150784899528160
+      Big Waddle Dee 4x_33: 5888549821518388878
+      Big Waddle Dee 4x_34: -8316915764203301042
+      Big Waddle Dee 4x_35: -1301636473587635255
+      Big Waddle Dee 4x_36: -4707239770557839445
+      Big Waddle Dee 4x_37: 8467172855085802175
+      Big Waddle Dee 4x_38: -1838103197949658530
+      Big Waddle Dee 4x_39: 237020946018874491
+      Big Waddle Dee 4x_4: -5669109070437847106
+      Big Waddle Dee 4x_40: 9054468514224669792
+      Big Waddle Dee 4x_41: 3061071874921127170
+      Big Waddle Dee 4x_42: -8099313206282197586
+      Big Waddle Dee 4x_43: 3319261037294405544
+      Big Waddle Dee 4x_44: 7412688919441906071
+      Big Waddle Dee 4x_45: 2377813027997521877
+      Big Waddle Dee 4x_46: -9041024591168414694
+      Big Waddle Dee 4x_47: -7665355854087860054
+      Big Waddle Dee 4x_48: -7080019406124932832
+      Big Waddle Dee 4x_49: -7910961129045950123
+      Big Waddle Dee 4x_5: 3154797951114405536
+      Big Waddle Dee 4x_50: 7519011804896809792
+      Big Waddle Dee 4x_51: -4684088949766373888
+      Big Waddle Dee 4x_52: 4032104380203697390
+      Big Waddle Dee 4x_53: -4485490699364036161
+      Big Waddle Dee 4x_54: -3627069066025593846
+      Big Waddle Dee 4x_55: -3146910898708160305
+      Big Waddle Dee 4x_56: 7653241079489450946
+      Big Waddle Dee 4x_57: -4465501723729690322
+      Big Waddle Dee 4x_58: 1974925404856965762
+      Big Waddle Dee 4x_59: 5223090611817848103
+      Big Waddle Dee 4x_6: 1294638986942616825
+      Big Waddle Dee 4x_60: -5155838933428185680
+      Big Waddle Dee 4x_61: 2564672656836824635
+      Big Waddle Dee 4x_62: -5072773911881431898
+      Big Waddle Dee 4x_63: 8201642766108957411
+      Big Waddle Dee 4x_64: -1186868526941650889
+      Big Waddle Dee 4x_65: -7897485115783995013
+      Big Waddle Dee 4x_66: 7082342373988624789
+      Big Waddle Dee 4x_7: -458675384221885314
+      Big Waddle Dee 4x_8: 2677256497189711836
+      Big Waddle Dee 4x_9: -7437886584701968122
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

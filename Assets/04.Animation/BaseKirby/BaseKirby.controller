@@ -9,12 +9,6 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: FatMode
-    m_EventTreshold: 0
-  - m_ConditionMode: 1
-    m_ConditionEvent: GetEnemy
-    m_EventTreshold: 0
-  - m_ConditionMode: 1
     m_ConditionEvent: Shooting
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
@@ -26,7 +20,7 @@ AnimatorStateTransition:
   m_TransitionDuration: 0.01047194
   m_TransitionOffset: 0.022124002
   m_ExitTime: 0.9846752
-  m_HasExitTime: 1
+  m_HasExitTime: 0
   m_HasFixedDuration: 1
   m_InterruptionSource: 0
   m_OrderedInterruption: 1
@@ -273,7 +267,7 @@ AnimatorStateTransition:
   m_TransitionDuration: 0.25
   m_TransitionOffset: 0
   m_ExitTime: 0.42307693
-  m_HasExitTime: 1
+  m_HasExitTime: 0
   m_HasFixedDuration: 1
   m_InterruptionSource: 0
   m_OrderedInterruption: 1
@@ -647,6 +641,7 @@ AnimatorState:
   m_CycleOffset: 0
   m_Transitions:
   - {fileID: -3043082856235891509}
+  - {fileID: 5257650085583020519}
   m_StateMachineBehaviours: []
   m_Position: {x: 50, y: 50, z: 0}
   m_IKOnFeet: 0
@@ -787,9 +782,9 @@ AnimatorStateTransition:
   m_Mute: 0
   m_IsExit: 0
   serializedVersion: 3
-  m_TransitionDuration: 0.0039976537
-  m_TransitionOffset: 0
-  m_ExitTime: 0.714636
+  m_TransitionDuration: 0.00045782328
+  m_TransitionOffset: 0.016337682
+  m_ExitTime: 0.7247498
   m_HasExitTime: 0
   m_HasFixedDuration: 1
   m_InterruptionSource: 0
@@ -1018,10 +1013,10 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 2
-    m_ConditionEvent: FatMode
+    m_ConditionEvent: GetEnemy
     m_EventTreshold: 0
   - m_ConditionMode: 2
-    m_ConditionEvent: GetEnemy
+    m_ConditionEvent: FatMode
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 7172418935797696636}
@@ -1168,6 +1163,31 @@ AnimatorStateTransition:
   m_InterruptionSource: 0
   m_OrderedInterruption: 1
   m_CanTransitionToSelf: 1
+--- !u!1101 &2036563315981904942
+AnimatorStateTransition:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_Conditions:
+  - m_ConditionMode: 1
+    m_ConditionEvent: Eating
+    m_EventTreshold: 0
+  m_DstStateMachine: {fileID: 0}
+  m_DstState: {fileID: -1786978191181161845}
+  m_Solo: 0
+  m_Mute: 0
+  m_IsExit: 0
+  serializedVersion: 3
+  m_TransitionDuration: 0.25
+  m_TransitionOffset: 0
+  m_ExitTime: 0.5945946
+  m_HasExitTime: 0
+  m_HasFixedDuration: 1
+  m_InterruptionSource: 0
+  m_OrderedInterruption: 1
+  m_CanTransitionToSelf: 1
 --- !u!1107 &2389114891030908709
 AnimatorStateMachine:
   serializedVersion: 6
@@ -1188,7 +1208,7 @@ AnimatorStateMachine:
     m_Position: {x: 340, y: -40, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 3750552669173177942}
-    m_Position: {x: 340, y: 210, z: 0}
+    m_Position: {x: 340, y: 220, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 8020132181582934283}
     m_Position: {x: 620, y: 0, z: 0}
@@ -1244,6 +1264,9 @@ AnimatorStateTransition:
   - m_ConditionMode: 3
     m_ConditionEvent: BreathTime
     m_EventTreshold: 0.5
+  - m_ConditionMode: 1
+    m_ConditionEvent: IsBreath
+    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 7764841881054045163}
   m_Solo: 0
@@ -1295,6 +1318,8 @@ AnimatorState:
   m_CycleOffset: 0
   m_Transitions:
   - {fileID: 9109069990742579372}
+  - {fileID: 2036563315981904942}
+  - {fileID: 3986920391454383971}
   m_StateMachineBehaviours: []
   m_Position: {x: 50, y: 50, z: 0}
   m_IKOnFeet: 0
@@ -1310,6 +1335,31 @@ AnimatorState:
   m_MirrorParameter: 
   m_CycleOffsetParameter: 
   m_TimeParameter: 
+--- !u!1101 &3986920391454383971
+AnimatorStateTransition:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_Conditions:
+  - m_ConditionMode: 1
+    m_ConditionEvent: Shooting
+    m_EventTreshold: 0
+  m_DstStateMachine: {fileID: 0}
+  m_DstState: {fileID: 8020132181582934283}
+  m_Solo: 0
+  m_Mute: 0
+  m_IsExit: 0
+  serializedVersion: 3
+  m_TransitionDuration: 0.25
+  m_TransitionOffset: 0
+  m_ExitTime: 0.5945946
+  m_HasExitTime: 0
+  m_HasFixedDuration: 1
+  m_InterruptionSource: 0
+  m_OrderedInterruption: 1
+  m_CanTransitionToSelf: 1
 --- !u!1102 &4413378503381089850
 AnimatorState:
   serializedVersion: 6
@@ -1351,6 +1401,28 @@ AnimatorTransition:
   m_Mute: 0
   m_IsExit: 0
   serializedVersion: 1
+--- !u!1101 &5257650085583020519
+AnimatorStateTransition:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_Conditions: []
+  m_DstStateMachine: {fileID: 0}
+  m_DstState: {fileID: 1243629088047040406}
+  m_Solo: 0
+  m_Mute: 0
+  m_IsExit: 0
+  serializedVersion: 3
+  m_TransitionDuration: 0.25
+  m_TransitionOffset: 0
+  m_ExitTime: 0.42307693
+  m_HasExitTime: 1
+  m_HasFixedDuration: 1
+  m_InterruptionSource: 0
+  m_OrderedInterruption: 1
+  m_CanTransitionToSelf: 1
 --- !u!1101 &5265271646231948428
 AnimatorStateTransition:
   m_ObjectHideFlags: 1
@@ -1384,6 +1456,9 @@ AnimatorStateTransition:
   - m_ConditionMode: 1
     m_ConditionEvent: FatMode
     m_EventTreshold: 0
+  - m_ConditionMode: 1
+    m_ConditionEvent: GetEnemy
+    m_EventTreshold: 0
   - m_ConditionMode: 3
     m_ConditionEvent: Movement
     m_EventTreshold: 0
@@ -1396,7 +1471,7 @@ AnimatorStateTransition:
   m_TransitionDuration: 0.25
   m_TransitionOffset: 0
   m_ExitTime: 0.63414633
-  m_HasExitTime: 1
+  m_HasExitTime: 0
   m_HasFixedDuration: 1
   m_InterruptionSource: 0
   m_OrderedInterruption: 1
@@ -1410,12 +1485,6 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: FatMode
-    m_EventTreshold: 0
-  - m_ConditionMode: 1
-    m_ConditionEvent: GetEnemy
-    m_EventTreshold: 0
-  - m_ConditionMode: 1
     m_ConditionEvent: Shooting
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
@@ -1427,7 +1496,7 @@ AnimatorStateTransition:
   m_TransitionDuration: 0.25
   m_TransitionOffset: 0
   m_ExitTime: 0.42307693
-  m_HasExitTime: 1
+  m_HasExitTime: 0
   m_HasFixedDuration: 1
   m_InterruptionSource: 0
   m_OrderedInterruption: 1
@@ -1466,12 +1535,6 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: FatMode
-    m_EventTreshold: 0
-  - m_ConditionMode: 1
-    m_ConditionEvent: GetEnemy
-    m_EventTreshold: 0
-  - m_ConditionMode: 1
     m_ConditionEvent: Shooting
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
@@ -1483,7 +1546,7 @@ AnimatorStateTransition:
   m_TransitionDuration: 0.25
   m_TransitionOffset: 0
   m_ExitTime: 0.48275864
-  m_HasExitTime: 1
+  m_HasExitTime: 0
   m_HasFixedDuration: 1
   m_InterruptionSource: 0
   m_OrderedInterruption: 1
@@ -1685,13 +1748,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: FatMode
-    m_EventTreshold: 0
-  - m_ConditionMode: 1
     m_ConditionEvent: Eating
-    m_EventTreshold: 0
-  - m_ConditionMode: 1
-    m_ConditionEvent: GetEnemy
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -1786978191181161845}
@@ -1702,7 +1759,7 @@ AnimatorStateTransition:
   m_TransitionDuration: 0.25
   m_TransitionOffset: 0
   m_ExitTime: 0.63414633
-  m_HasExitTime: 1
+  m_HasExitTime: 0
   m_HasFixedDuration: 1
   m_InterruptionSource: 0
   m_OrderedInterruption: 1
@@ -1743,6 +1800,9 @@ AnimatorStateTransition:
   - m_ConditionMode: 1
     m_ConditionEvent: FatMode
     m_EventTreshold: 0
+  - m_ConditionMode: 1
+    m_ConditionEvent: GetEnemy
+    m_EventTreshold: 0
   - m_ConditionMode: 4
     m_ConditionEvent: Movement
     m_EventTreshold: 0.3
@@ -1755,7 +1815,7 @@ AnimatorStateTransition:
   m_TransitionDuration: 0.25
   m_TransitionOffset: 0
   m_ExitTime: 0.5945946
-  m_HasExitTime: 1
+  m_HasExitTime: 0
   m_HasFixedDuration: 1
   m_InterruptionSource: 0
   m_OrderedInterruption: 1

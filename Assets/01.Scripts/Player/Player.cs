@@ -18,16 +18,16 @@ public class Player: PlayerStat
         else
         {
             Destroy(gameObject);
+            return;
         }
-        
-        Hp = 100.0f;
-        Life = 3;
         
         StatSetting();
     }
 
     public void StatSetting()
     {
+        Hp = 100.0f;
+        Life = 3;
         
         switch (PlayerAbility)
         {
@@ -36,15 +36,15 @@ public class Player: PlayerStat
                 Attack = 5.0f;
                 break;
             case AbilityType.Sword:
-                name = "SwordKirby";
+                Name = "SwordKirby";
                 Attack = 15.0f;
                 break;
             case AbilityType.Cutter:
-                name = "CutterKirby";
+                Name = "CutterKirby";
                 Attack = 12.0f;
                 break;
             case AbilityType.Bomber:
-                name = "BomberKirby";
+                Name = "BomberKirby";
                 Attack = 20.0f;
                 break;
             default:

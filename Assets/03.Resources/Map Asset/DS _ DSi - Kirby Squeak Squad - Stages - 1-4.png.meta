@@ -1,0 +1,3406 @@
+fileFormatVersion: 2
+guid: 1140123c5621f52429ee1eeeeeae472a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4050213672070749035
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_0
+  - first:
+      213: 8055468449396825936
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_1
+  - first:
+      213: -1316372543078044770
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_2
+  - first:
+      213: -9158216492621392429
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_3
+  - first:
+      213: -7470063810967223190
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_4
+  - first:
+      213: 3087286484347227918
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_5
+  - first:
+      213: 4806178293116102554
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_6
+  - first:
+      213: 5093856941803892516
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_7
+  - first:
+      213: -9033005770168969414
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_8
+  - first:
+      213: -8166216239856255351
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_9
+  - first:
+      213: 4182903914042140976
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_10
+  - first:
+      213: 5362103708890852376
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_11
+  - first:
+      213: 278329876370404514
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_12
+  - first:
+      213: 6971497459912024264
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_13
+  - first:
+      213: -4357311169266832326
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_14
+  - first:
+      213: 8000423367951926552
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_15
+  - first:
+      213: -1627614593676641294
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_16
+  - first:
+      213: 4905195955366766611
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_17
+  - first:
+      213: 5535646153334162496
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_18
+  - first:
+      213: 198029237566561877
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_19
+  - first:
+      213: -4558721621331290548
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_20
+  - first:
+      213: 3512239228875427359
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_21
+  - first:
+      213: 314934552166322988
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_22
+  - first:
+      213: 3763657854660881304
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_23
+  - first:
+      213: 8450838012625042607
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_24
+  - first:
+      213: -7846350648104615411
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_25
+  - first:
+      213: 1277647012070536525
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_26
+  - first:
+      213: 8134004163019416677
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_27
+  - first:
+      213: 238732760574964185
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_28
+  - first:
+      213: 1263453808850736848
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_29
+  - first:
+      213: 4897234132206014782
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_30
+  - first:
+      213: 879017208906127119
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_31
+  - first:
+      213: 1949885751225339559
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_32
+  - first:
+      213: 7276512945085910740
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_33
+  - first:
+      213: -6197515610707696327
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_34
+  - first:
+      213: -2668225928997710183
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_35
+  - first:
+      213: -3089083753055561345
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_36
+  - first:
+      213: 2783613626406110469
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_37
+  - first:
+      213: 8748545274382461951
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_38
+  - first:
+      213: -5572660317503914270
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_39
+  - first:
+      213: -1993983196858875138
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_40
+  - first:
+      213: -2798351652512015644
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_41
+  - first:
+      213: 8087638535882910587
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_42
+  - first:
+      213: -8494002399465009927
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_43
+  - first:
+      213: 8592034454996954186
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_44
+  - first:
+      213: 5433071062286936985
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_45
+  - first:
+      213: 5087421906377918339
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_46
+  - first:
+      213: 6611939232799808824
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_47
+  - first:
+      213: 7774715718930188986
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_48
+  - first:
+      213: -3306648768979052418
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_49
+  - first:
+      213: -4033378651391368099
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_50
+  - first:
+      213: -4197560184364791332
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_51
+  - first:
+      213: -9189189309719177215
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_52
+  - first:
+      213: -4144700669552425062
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_53
+  - first:
+      213: -628930536453612166
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_54
+  - first:
+      213: 7523640918007014091
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_55
+  - first:
+      213: 8832370980571802287
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_56
+  - first:
+      213: -9048575084976645934
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_57
+  - first:
+      213: -3353792499545529000
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_58
+  - first:
+      213: 544111792461861784
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_59
+  - first:
+      213: -1926264249601033591
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_60
+  - first:
+      213: -8960261102944632457
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_61
+  - first:
+      213: -9132331381861139217
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_62
+  - first:
+      213: -8100471692675518115
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_63
+  - first:
+      213: 5169004775369844382
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_64
+  - first:
+      213: -8186054756290825735
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_65
+  - first:
+      213: 7238863380860429442
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_66
+  - first:
+      213: -2275382560512345272
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_67
+  - first:
+      213: -8185385218205551348
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_68
+  - first:
+      213: -6109487090829230003
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_69
+  - first:
+      213: 4883812466769741149
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_70
+  - first:
+      213: 4144511782893944746
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_71
+  - first:
+      213: -3057891100327061566
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_72
+  - first:
+      213: -6103500456621979558
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_73
+  - first:
+      213: 1884498475869384599
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_74
+  - first:
+      213: 3043629157679654112
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_75
+  - first:
+      213: 5701959259729523748
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_76
+  - first:
+      213: -4515512404048679003
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_77
+  - first:
+      213: 5615544465636898083
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_78
+  - first:
+      213: -1226671273804547124
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_79
+  - first:
+      213: -7201657816178407378
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_80
+  - first:
+      213: 7601051040342577806
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_81
+  - first:
+      213: -3617749378080873220
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_82
+  - first:
+      213: -1795261121724986763
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_83
+  - first:
+      213: 8379790216343516634
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_84
+  - first:
+      213: -5724441387870065170
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_85
+  - first:
+      213: 6675752844706470976
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_86
+  - first:
+      213: 528831148358900804
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_87
+  - first:
+      213: -6771469545481606009
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_88
+  - first:
+      213: 320596388646708812
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_89
+  - first:
+      213: -6628975376043555119
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_90
+  - first:
+      213: -1337014519031868972
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_91
+  - first:
+      213: -6299127258422659556
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_92
+  - first:
+      213: 548574587875783893
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_93
+  - first:
+      213: 1887464379211314995
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_94
+  - first:
+      213: -8948281320758548692
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_95
+  - first:
+      213: -5507793454053123367
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_96
+  - first:
+      213: -1666954747853969786
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_97
+  - first:
+      213: -8364135392972975296
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_98
+  - first:
+      213: -4633159156438626673
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_99
+  - first:
+      213: -4105910484735083683
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_100
+  - first:
+      213: 6053218507114151522
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_101
+  - first:
+      213: -7905611471529401197
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_102
+  - first:
+      213: -1030714450067028282
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_103
+  - first:
+      213: 1128958566814254809
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_104
+  - first:
+      213: -3627159792667473213
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_105
+  - first:
+      213: 303889244434770129
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_106
+  - first:
+      213: -399423596952165590
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_107
+  - first:
+      213: -8939746765735862249
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_108
+  - first:
+      213: 239154353470608706
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_109
+  - first:
+      213: 3778641670995526130
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_110
+  - first:
+      213: -9061662895574423830
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_111
+  - first:
+      213: 7276538828615298856
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_112
+  - first:
+      213: -82160017605691280
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_113
+  - first:
+      213: -8340792821653547518
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_114
+  - first:
+      213: 1476299187758213299
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_115
+  - first:
+      213: 7461039393352903120
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_116
+  - first:
+      213: 7654772094318575223
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_117
+  - first:
+      213: -123494358201623643
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_118
+  - first:
+      213: 4803003857488931632
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_119
+  - first:
+      213: -5837703503118398472
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_120
+  - first:
+      213: 5406716302941008807
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_121
+  - first:
+      213: 5692622514410473654
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_122
+  - first:
+      213: -9102919439158031420
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_123
+  - first:
+      213: -7251122318521496065
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_124
+  - first:
+      213: -4114024018044938925
+    second: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_125
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 719
+        width: 1698
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594eacbcf10cac7c0800000000000000
+      internalID: -4050213672070749035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 559
+        width: 194
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f1aa100e5cacf60800000000000000
+      internalID: 8055468449396825936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_2
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 319
+        width: 754
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b61c1852e4bbde0800000000000000
+      internalID: -1316372543078044770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_3
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 383
+        width: 274
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d59d2d4f9a77e080800000000000000
+      internalID: -9158216492621392429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_4
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 623
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a644cc1ca80055890800000000000000
+      internalID: -7470063810967223190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_5
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 674
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f816b43be38da20800000000000000
+      internalID: 3087286484347227918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_6
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 675
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97e06081b9f2b240800000000000000
+      internalID: 4806178293116102554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_7
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 675
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fe0e076e301b640800000000000000
+      internalID: 5093856941803892516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_8
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 675
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3756076c1154a280800000000000000
+      internalID: -9033005770168969414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_9
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 675
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e7758a895cbae80800000000000000
+      internalID: -8166216239856255351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_10
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 675
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039a216a2f8ac0a30800000000000000
+      internalID: 4182903914042140976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_11
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 675
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c6e31e9e40a6a40800000000000000
+      internalID: 5362103708890852376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_12
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 675
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4bf634c83dcd300800000000000000
+      internalID: 278329876370404514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_13
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 543
+        width: 82
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c02892d00cbfb060800000000000000
+      internalID: 6971497459912024264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_14
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 661
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c220cd398b783c0800000000000000
+      internalID: -4357311169266832326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_15
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 661
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81542834aa6370f60800000000000000
+      internalID: 8000423367951926552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_16
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 661
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb79a8862d8969e0800000000000000
+      internalID: -1627614593676641294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_17
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 661
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318a1598bb1c21440800000000000000
+      internalID: 4905195955366766611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_18
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 661
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0448dbbe8d092dc40800000000000000
+      internalID: 5535646153334162496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_19
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 661
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55edb48da8a8fb200800000000000000
+      internalID: 198029237566561877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_20
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 661
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46d7aaa6da2cb0c0800000000000000
+      internalID: -4558721621331290548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_21
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 661
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ecf4358fafdb030800000000000000
+      internalID: 3512239228875427359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_22
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 661
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23de5d7e4fde5400800000000000000
+      internalID: 314934552166322988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_23
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 661
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bab2bc0e23b3430800000000000000
+      internalID: 3763657854660881304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_24
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 661
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac32e4e568674570800000000000000
+      internalID: 8450838012625042607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_25
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 575
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02819448a92c1390800000000000000
+      internalID: -7846350648104615411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_26
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 575
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45bdce203d1bb110800000000000000
+      internalID: 1277647012070536525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_27
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 575
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5642252c0b9c1e070800000000000000
+      internalID: 8134004163019416677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_28
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 575
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1b15e4e26205300800000000000000
+      internalID: 238732760574964185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_29
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 575
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d699aa8b80b88110800000000000000
+      internalID: 1263453808850736848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_30
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 575
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31de002f7876f340800000000000000
+      internalID: 4897234132206014782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_31
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 575
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f071e488e75e23c00800000000000000
+      internalID: 879017208906127119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_32
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 575
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aec16282c26f0b10800000000000000
+      internalID: 1949885751225339559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_33
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 575
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de806f88fd5bf460800000000000000
+      internalID: 7276512945085910740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_34
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 575
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93564dd43600ef9a0800000000000000
+      internalID: -6197515610707696327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_35
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 575
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996da9987ae88fad0800000000000000
+      internalID: -2668225928997710183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_36
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 575
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7951b971be5125d0800000000000000
+      internalID: -3089083753055561345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_37
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 543
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5058fd158d161a620800000000000000
+      internalID: 2783613626406110469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_38
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 543
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb2df44393196970800000000000000
+      internalID: 8748545274382461951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_39
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 543
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee734967fee9a2b0800000000000000
+      internalID: -5572660317503914270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_40
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 543
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef20127d8d2f354e0800000000000000
+      internalID: -1993983196858875138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_41
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 543
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ead4639ff14a29d0800000000000000
+      internalID: -2798351652512015644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_42
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 543
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7baf03f5601d3070800000000000000
+      internalID: 8087638535882910587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_43
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 543
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc829222dd3f1a80800000000000000
+      internalID: -8494002399465009927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_44
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 543
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ca20470d90d3770800000000000000
+      internalID: 8592034454996954186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_45
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 543
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b21137855266b40800000000000000
+      internalID: 5433071062286936985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_46
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 543
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387423005472a9640800000000000000
+      internalID: 5087421906377918339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_47
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 543
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d508f53b352cb50800000000000000
+      internalID: 6611939232799808824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_48
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 543
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abaca7011c655eb60800000000000000
+      internalID: 7774715718930188986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_49
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 520
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e785508c67c6c12d0800000000000000
+      internalID: -3306648768979052418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_50
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 521
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d546c2f7c7f8608c0800000000000000
+      internalID: -4033378651391368099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_51
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 521
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd90d9f70454fb5c0800000000000000
+      internalID: -4197560184364791332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_52
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 521
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1081f5c5201797080800000000000000
+      internalID: -9189189309719177215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_53
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 521
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97010b53b01b76c0800000000000000
+      internalID: -4144700669552425062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_54
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 521
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d594262079547f0800000000000000
+      internalID: -628930536453612166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_55
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 521
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2e66f8d87596860800000000000000
+      internalID: 7523640918007014091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_56
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 521
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa63756c92e29a70800000000000000
+      internalID: 8832370980571802287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_57
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 508
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d85480d6e00d6280800000000000000
+      internalID: -9048575084976645934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_58
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 504
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8552836ad7fe471d0800000000000000
+      internalID: -3353792499545529000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_59
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 511
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8935acbdac21d8700800000000000000
+      internalID: 544111792461861784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_60
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 511
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98afefaeed88445e0800000000000000
+      internalID: -1926264249601033591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_61
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 511
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7714c381002c6a380800000000000000
+      internalID: -8960261102944632457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_62
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 511
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecb30d4ef0734180800000000000000
+      internalID: -9132331381861139217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_63
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 511
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51f7f4e9e7559f80800000000000000
+      internalID: -8100471692675518115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_64
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 511
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96a736e47efbb740800000000000000
+      internalID: 5169004775369844382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_65
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 511
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1736b129a456e80800000000000000
+      internalID: -8186054756290825735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_66
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 511
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284e4c944eb957460800000000000000
+      internalID: 7238863380860429442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_67
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 511
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bfa80ed973c60e0800000000000000
+      internalID: -2275382560512345272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_68
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 511
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05ff17138ba76e80800000000000000
+      internalID: -8185385218205551348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_69
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 514
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d400a4f3cddb63ba0800000000000000
+      internalID: -6109487090829230003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_70
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 512
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d554f6f1099c6c340800000000000000
+      internalID: 4883812466769741149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_71
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 507
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf70da0283448930800000000000000
+      internalID: 4144511782893944746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_72
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 507
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c75d23ee303095d0800000000000000
+      internalID: -3057891100327061566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_73
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 507
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58cc942ca20c4ba0800000000000000
+      internalID: -6103500456621979558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_74
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 507
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fa5f91165172a10800000000000000
+      internalID: 1884498475869384599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_75
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 507
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e46483d7942d3a20800000000000000
+      internalID: 3043629157679654112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_76
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 507
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4247de78cbd612f40800000000000000
+      internalID: 5701959259729523748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_77
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 507
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afeec9846da551c0800000000000000
+      internalID: -4515512404048679003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_78
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 507
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325b2b660fb6eed40800000000000000
+      internalID: 5615544465636898083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_79
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 507
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb34b4c9fcf9fee0800000000000000
+      internalID: -1226671273804547124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_80
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 507
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2845c84f529e0c90800000000000000
+      internalID: -7201657816178407378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_81
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 507
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e829b3b26ab5c7960800000000000000
+      internalID: 7601051040342577806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_82
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 489
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf46919bb1c2bcdc0800000000000000
+      internalID: -3617749378080873220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_83
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 491
+        width: 46
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a43808583f517e0800000000000000
+      internalID: -1795261121724986763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_84
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 479
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5f271cdcefa4470800000000000000
+      internalID: 8379790216343516634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_85
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 479
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eede57a13e2be80b0800000000000000
+      internalID: -5724441387870065170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_86
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 479
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c5805b7d905ac50800000000000000
+      internalID: 6675752844706470976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_87
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 479
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c1818a029c65700800000000000000
+      internalID: 528831148358900804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_88
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 479
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c613e3358e602a0800000000000000
+      internalID: -6771469545481606009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_89
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 479
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c466f8587bcf27400800000000000000
+      internalID: 320596388646708812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_90
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 479
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6cc1e64062104a0800000000000000
+      internalID: -6628975376043555119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_91
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 479
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1d095f068f17de0800000000000000
+      internalID: -1337014519031868972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_92
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 479
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16bcb6f1210598a0800000000000000
+      internalID: -6299127258422659556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_93
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 479
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d474236eadec9700800000000000000
+      internalID: 548574587875783893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_94
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 479
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337f7194ade913a10800000000000000
+      internalID: 1887464379211314995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_95
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 479
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c276ced7c8151d380800000000000000
+      internalID: -8948281320758548692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_96
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 458
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da11faf8036093b0800000000000000
+      internalID: -5507793454053123367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_97
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 458
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686638d1d79cdd8e0800000000000000
+      internalID: -1666954747853969786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_98
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 458
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043d298dc2f9ceb80800000000000000
+      internalID: -8364135392972975296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_99
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 458
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e80a47b46b3bfb0800000000000000
+      internalID: -4633159156438626673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_100
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 458
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b30dd0b20e407c0800000000000000
+      internalID: -4105910484735083683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_101
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 458
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26efb50392a510450800000000000000
+      internalID: 6053218507114151522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_102
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 457
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394ac3b9040a94290800000000000000
+      internalID: -7905611471529401197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_103
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 449
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c684ea2baa22b1f0800000000000000
+      internalID: -1030714450067028282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_104
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 449
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d60915c5dddaaf00800000000000000
+      internalID: 1128958566814254809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_105
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 449
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cac976d26db9adc0800000000000000
+      internalID: -3627159792667473213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_106
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 449
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8a89168a1a73400800000000000000
+      internalID: 303889244434770129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_107
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 449
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23e1c4da56f47af0800000000000000
+      internalID: -399423596952165590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_108
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 449
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710ed5e6ea3afe380800000000000000
+      internalID: -8939746765735862249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_109
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 449
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2459a1d0e95a15300800000000000000
+      internalID: 239154353470608706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_110
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 449
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f14d25649e607430800000000000000
+      internalID: 3778641670995526130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_111
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 449
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6e2f27b918e3280800000000000000
+      internalID: -9061662895574423830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_112
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 444
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fa3f903857bf460800000000000000
+      internalID: 7276538828615298856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_113
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 444
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0787fd736eb1cdef0800000000000000
+      internalID: -82160017605691280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_114
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 444
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2065630ce1d8f3c80800000000000000
+      internalID: -8340792821653547518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_115
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 431
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8a68c1a4edc7410800000000000000
+      internalID: 1476299187758213299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_116
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 431
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9eef74ccfea8760800000000000000
+      internalID: 7461039393352903120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_117
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 431
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e7e6eb9a63b3a60800000000000000
+      internalID: 7654772094318575223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_118
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 431
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab90a71982494ef0800000000000000
+      internalID: -123494358201623643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_119
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 431
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b657c9f82b7a240800000000000000
+      internalID: 4803003857488931632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_120
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 431
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb0398e79f4cfea0800000000000000
+      internalID: -5837703503118398472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_121
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 431
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3bc1ed4d3880b40800000000000000
+      internalID: 5406716302941008807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_122
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 430
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8c3db1402400f40800000000000000
+      internalID: 5692622514410473654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_123
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 562
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbccf9dffeeba180800000000000000
+      internalID: -9102919439158031420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_124
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 15
+        width: 578
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd8e9d5ba6de5b90800000000000000
+      internalID: -7251122318521496065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Stages - 1-4_125
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 15
+        width: 658
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355910fd3fc08e6c0800000000000000
+      internalID: -4114024018044938925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_0: -4050213672070749035
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_1: 8055468449396825936
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_10: 4182903914042140976
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_100: -4105910484735083683
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_101: 6053218507114151522
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_102: -7905611471529401197
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_103: -1030714450067028282
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_104: 1128958566814254809
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_105: -3627159792667473213
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_106: 303889244434770129
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_107: -399423596952165590
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_108: -8939746765735862249
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_109: 239154353470608706
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_11: 5362103708890852376
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_110: 3778641670995526130
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_111: -9061662895574423830
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_112: 7276538828615298856
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_113: -82160017605691280
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_114: -8340792821653547518
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_115: 1476299187758213299
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_116: 7461039393352903120
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_117: 7654772094318575223
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_118: -123494358201623643
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_119: 4803003857488931632
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_12: 278329876370404514
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_120: -5837703503118398472
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_121: 5406716302941008807
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_122: 5692622514410473654
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_123: -9102919439158031420
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_124: -7251122318521496065
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_125: -4114024018044938925
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_13: 6971497459912024264
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_14: -4357311169266832326
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_15: 8000423367951926552
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_16: -1627614593676641294
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_17: 4905195955366766611
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_18: 5535646153334162496
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_19: 198029237566561877
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_2: -1316372543078044770
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_20: -4558721621331290548
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_21: 3512239228875427359
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_22: 314934552166322988
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_23: 3763657854660881304
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_24: 8450838012625042607
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_25: -7846350648104615411
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_26: 1277647012070536525
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_27: 8134004163019416677
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_28: 238732760574964185
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_29: 1263453808850736848
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_3: -9158216492621392429
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_30: 4897234132206014782
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_31: 879017208906127119
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_32: 1949885751225339559
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_33: 7276512945085910740
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_34: -6197515610707696327
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_35: -2668225928997710183
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_36: -3089083753055561345
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_37: 2783613626406110469
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_38: 8748545274382461951
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_39: -5572660317503914270
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_4: -7470063810967223190
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_40: -1993983196858875138
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_41: -2798351652512015644
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_42: 8087638535882910587
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_43: -8494002399465009927
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_44: 8592034454996954186
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_45: 5433071062286936985
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_46: 5087421906377918339
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_47: 6611939232799808824
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_48: 7774715718930188986
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_49: -3306648768979052418
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_5: 3087286484347227918
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_50: -4033378651391368099
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_51: -4197560184364791332
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_52: -9189189309719177215
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_53: -4144700669552425062
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_54: -628930536453612166
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_55: 7523640918007014091
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_56: 8832370980571802287
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_57: -9048575084976645934
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_58: -3353792499545529000
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_59: 544111792461861784
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_6: 4806178293116102554
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_60: -1926264249601033591
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_61: -8960261102944632457
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_62: -9132331381861139217
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_63: -8100471692675518115
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_64: 5169004775369844382
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_65: -8186054756290825735
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_66: 7238863380860429442
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_67: -2275382560512345272
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_68: -8185385218205551348
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_69: -6109487090829230003
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_7: 5093856941803892516
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_70: 4883812466769741149
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_71: 4144511782893944746
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_72: -3057891100327061566
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_73: -6103500456621979558
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_74: 1884498475869384599
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_75: 3043629157679654112
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_76: 5701959259729523748
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_77: -4515512404048679003
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_78: 5615544465636898083
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_79: -1226671273804547124
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_8: -9033005770168969414
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_80: -7201657816178407378
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_81: 7601051040342577806
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_82: -3617749378080873220
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_83: -1795261121724986763
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_84: 8379790216343516634
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_85: -5724441387870065170
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_86: 6675752844706470976
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_87: 528831148358900804
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_88: -6771469545481606009
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_89: 320596388646708812
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_9: -8166216239856255351
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_90: -6628975376043555119
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_91: -1337014519031868972
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_92: -6299127258422659556
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_93: 548574587875783893
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_94: 1887464379211314995
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_95: -8948281320758548692
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_96: -5507793454053123367
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_97: -1666954747853969786
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_98: -8364135392972975296
+      DS _ DSi - Kirby Squeak Squad - Stages - 1-4_99: -4633159156438626673
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

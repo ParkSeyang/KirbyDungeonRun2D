@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 8cdd1422785470841ac40924b623aeb0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3770349094805450969
+    second: Big Waddle Dee 4x Reverse_0
+  - first:
+      213: 1274570159221338661
+    second: Big Waddle Dee 4x Reverse_1
+  - first:
+      213: -7108072028793896312
+    second: Big Waddle Dee 4x Reverse_2
+  - first:
+      213: -350411611051986209
+    second: Big Waddle Dee 4x Reverse_3
+  - first:
+      213: -5764723920886313758
+    second: Big Waddle Dee 4x Reverse_4
+  - first:
+      213: 3696211375629605023
+    second: Big Waddle Dee 4x Reverse_5
+  - first:
+      213: -7749284280049235061
+    second: Big Waddle Dee 4x Reverse_6
+  - first:
+      213: -2092601869510959212
+    second: Big Waddle Dee 4x Reverse_7
+  - first:
+      213: -5514941434598575592
+    second: Big Waddle Dee 4x Reverse_8
+  - first:
+      213: 8521560959305834172
+    second: Big Waddle Dee 4x Reverse_9
+  - first:
+      213: 8201679558527336592
+    second: Big Waddle Dee 4x Reverse_10
+  - first:
+      213: 7203351968547690681
+    second: Big Waddle Dee 4x Reverse_11
+  - first:
+      213: 5191880796049093287
+    second: Big Waddle Dee 4x Reverse_12
+  - first:
+      213: -6368079559931281
+    second: Big Waddle Dee 4x Reverse_13
+  - first:
+      213: -6663898918228296675
+    second: Big Waddle Dee 4x Reverse_14
+  - first:
+      213: -398685099136264854
+    second: Big Waddle Dee 4x Reverse_15
+  - first:
+      213: 1616381696701770637
+    second: Big Waddle Dee 4x Reverse_16
+  - first:
+      213: -4930145705565656900
+    second: Big Waddle Dee 4x Reverse_17
+  - first:
+      213: 6754616049776690879
+    second: Big Waddle Dee 4x Reverse_18
+  - first:
+      213: -5176766973420324497
+    second: Big Waddle Dee 4x Reverse_19
+  - first:
+      213: 7310797701696385753
+    second: Big Waddle Dee 4x Reverse_20
+  - first:
+      213: 5946156952998757625
+    second: Big Waddle Dee 4x Reverse_21
+  - first:
+      213: -8179379216888609947
+    second: Big Waddle Dee 4x Reverse_22
+  - first:
+      213: 567523649872279822
+    second: Big Waddle Dee 4x Reverse_23
+  - first:
+      213: 1002156088296142010
+    second: Big Waddle Dee 4x Reverse_24
+  - first:
+      213: -8751369551347388972
+    second: Big Waddle Dee 4x Reverse_25
+  - first:
+      213: -8226857335399372392
+    second: Big Waddle Dee 4x Reverse_26
+  - first:
+      213: -8584663452984315332
+    second: Big Waddle Dee 4x Reverse_27
+  - first:
+      213: -5651217914376520062
+    second: Big Waddle Dee 4x Reverse_28
+  - first:
+      213: 7821746536436577670
+    second: Big Waddle Dee 4x Reverse_29
+  - first:
+      213: -1430600714511959175
+    second: Big Waddle Dee 4x Reverse_30
+  - first:
+      213: -6505567314437009357
+    second: Big Waddle Dee 4x Reverse_31
+  - first:
+      213: 1262763903322605152
+    second: Big Waddle Dee 4x Reverse_32
+  - first:
+      213: -4236093736157057822
+    second: Big Waddle Dee 4x Reverse_33
+  - first:
+      213: -1927397991253993202
+    second: Big Waddle Dee 4x Reverse_34
+  - first:
+      213: 197484914931565520
+    second: Big Waddle Dee 4x Reverse_35
+  - first:
+      213: 219733105575115217
+    second: Big Waddle Dee 4x Reverse_36
+  - first:
+      213: 1859973175358684110
+    second: Big Waddle Dee 4x Reverse_37
+  - first:
+      213: 6058694937915275686
+    second: Big Waddle Dee 4x Reverse_38
+  - first:
+      213: -4885816687277283906
+    second: Big Waddle Dee 4x Reverse_39
+  - first:
+      213: -5633420110785473749
+    second: Big Waddle Dee 4x Reverse_40
+  - first:
+      213: 1744927140813088154
+    second: Big Waddle Dee 4x Reverse_41
+  - first:
+      213: 705262774032406773
+    second: Big Waddle Dee 4x Reverse_42
+  - first:
+      213: -1657799906671879230
+    second: Big Waddle Dee 4x Reverse_43
+  - first:
+      213: 6125103325338116432
+    second: Big Waddle Dee 4x Reverse_44
+  - first:
+      213: -6206140530582672288
+    second: Big Waddle Dee 4x Reverse_45
+  - first:
+      213: -8888173270739630471
+    second: Big Waddle Dee 4x Reverse_46
+  - first:
+      213: -7554583021057779384
+    second: Big Waddle Dee 4x Reverse_47
+  - first:
+      213: -2627196846416411324
+    second: Big Waddle Dee 4x Reverse_48
+  - first:
+      213: 6114660442747994626
+    second: Big Waddle Dee 4x Reverse_49
+  - first:
+      213: -3402814981288228464
+    second: Big Waddle Dee 4x Reverse_50
+  - first:
+      213: 6927502786964511427
+    second: Big Waddle Dee 4x Reverse_51
+  - first:
+      213: 5201252098198105689
+    second: Big Waddle Dee 4x Reverse_52
+  - first:
+      213: -8931550223965365811
+    second: Big Waddle Dee 4x Reverse_53
+  - first:
+      213: 358801475516967268
+    second: Big Waddle Dee 4x Reverse_54
+  - first:
+      213: 8996138701960292597
+    second: Big Waddle Dee 4x Reverse_55
+  - first:
+      213: -5413678069750532145
+    second: Big Waddle Dee 4x Reverse_56
+  - first:
+      213: -8343873019123658630
+    second: Big Waddle Dee 4x Reverse_57
+  - first:
+      213: 4000419014496045119
+    second: Big Waddle Dee 4x Reverse_58
+  - first:
+      213: 840190699345634445
+    second: Big Waddle Dee 4x Reverse_59
+  - first:
+      213: 7199893540951747527
+    second: Big Waddle Dee 4x Reverse_60
+  - first:
+      213: -7311642255551243073
+    second: Big Waddle Dee 4x Reverse_61
+  - first:
+      213: -5302448168132739602
+    second: Big Waddle Dee 4x Reverse_62
+  - first:
+      213: -7229717467781394055
+    second: Big Waddle Dee 4x Reverse_63
+  - first:
+      213: 5687585353955061400
+    second: Big Waddle Dee 4x Reverse_64
+  - first:
+      213: 7208409956382160437
+    second: Big Waddle Dee 4x Reverse_65
+  - first:
+      213: 3493538200894945312
+    second: Big Waddle Dee 4x Reverse_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x Reverse_0
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 316
+        width: 118
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0381b8688f25430800000000000000
+      internalID: 3770349094805450969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x Reverse_1
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 316
+        width: 118
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52273bd8ece20b110800000000000000
+      internalID: 1274570159221338661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x Reverse_2
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 316
+        width: 118
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88289d5662e0b5d90800000000000000
+      internalID: -7108072028793896312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x Reverse_3
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 316
+        width: 118
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2f21e0f76132bf0800000000000000
+      internalID: -350411611051986209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x Reverse_4
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 316
+        width: 141
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eccf5303269fffa0800000000000000
+      internalID: -5764723920886313758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x Reverse_12
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 164
+        width: 142
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2bda483144d0840800000000000000
+      internalID: 5191880796049093287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x Reverse_13
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 164
+        width: 129
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6acdefe34069eff0800000000000000
+      internalID: -6368079559931281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x Reverse_44
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 12
+        width: 142
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051a75fa50db00550800000000000000
+      internalID: 6125103325338116432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Waddle Dee 4x Reverse_54
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 12
+        width: 129
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469231d7a08baf400800000000000000
+      internalID: 358801475516967268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bf84fb949d3ada4429c376ecde4ef615
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Big Waddle Dee 4x Reverse_0: 3770349094805450969
+      Big Waddle Dee 4x Reverse_1: 1274570159221338661
+      Big Waddle Dee 4x Reverse_10: 8201679558527336592
+      Big Waddle Dee 4x Reverse_11: 7203351968547690681
+      Big Waddle Dee 4x Reverse_12: 5191880796049093287
+      Big Waddle Dee 4x Reverse_13: -6368079559931281
+      Big Waddle Dee 4x Reverse_14: -6663898918228296675
+      Big Waddle Dee 4x Reverse_15: -398685099136264854
+      Big Waddle Dee 4x Reverse_16: 1616381696701770637
+      Big Waddle Dee 4x Reverse_17: -4930145705565656900
+      Big Waddle Dee 4x Reverse_18: 6754616049776690879
+      Big Waddle Dee 4x Reverse_19: -5176766973420324497
+      Big Waddle Dee 4x Reverse_2: -7108072028793896312
+      Big Waddle Dee 4x Reverse_20: 7310797701696385753
+      Big Waddle Dee 4x Reverse_21: 5946156952998757625
+      Big Waddle Dee 4x Reverse_22: -8179379216888609947
+      Big Waddle Dee 4x Reverse_23: 567523649872279822
+      Big Waddle Dee 4x Reverse_24: 1002156088296142010
+      Big Waddle Dee 4x Reverse_25: -8751369551347388972
+      Big Waddle Dee 4x Reverse_26: -8226857335399372392
+      Big Waddle Dee 4x Reverse_27: -8584663452984315332
+      Big Waddle Dee 4x Reverse_28: -5651217914376520062
+      Big Waddle Dee 4x Reverse_29: 7821746536436577670
+      Big Waddle Dee 4x Reverse_3: -350411611051986209
+      Big Waddle Dee 4x Reverse_30: -1430600714511959175
+      Big Waddle Dee 4x Reverse_31: -6505567314437009357
+      Big Waddle Dee 4x Reverse_32: 1262763903322605152
+      Big Waddle Dee 4x Reverse_33: -4236093736157057822
+      Big Waddle Dee 4x Reverse_34: -1927397991253993202
+      Big Waddle Dee 4x Reverse_35: 197484914931565520
+      Big Waddle Dee 4x Reverse_36: 219733105575115217
+      Big Waddle Dee 4x Reverse_37: 1859973175358684110
+      Big Waddle Dee 4x Reverse_38: 6058694937915275686
+      Big Waddle Dee 4x Reverse_39: -4885816687277283906
+      Big Waddle Dee 4x Reverse_4: -5764723920886313758
+      Big Waddle Dee 4x Reverse_40: -5633420110785473749
+      Big Waddle Dee 4x Reverse_41: 1744927140813088154
+      Big Waddle Dee 4x Reverse_42: 705262774032406773
+      Big Waddle Dee 4x Reverse_43: -1657799906671879230
+      Big Waddle Dee 4x Reverse_44: 6125103325338116432
+      Big Waddle Dee 4x Reverse_45: -6206140530582672288
+      Big Waddle Dee 4x Reverse_46: -8888173270739630471
+      Big Waddle Dee 4x Reverse_47: -7554583021057779384
+      Big Waddle Dee 4x Reverse_48: -2627196846416411324
+      Big Waddle Dee 4x Reverse_49: 6114660442747994626
+      Big Waddle Dee 4x Reverse_5: 3696211375629605023
+      Big Waddle Dee 4x Reverse_50: -3402814981288228464
+      Big Waddle Dee 4x Reverse_51: 6927502786964511427
+      Big Waddle Dee 4x Reverse_52: 5201252098198105689
+      Big Waddle Dee 4x Reverse_53: -8931550223965365811
+      Big Waddle Dee 4x Reverse_54: 358801475516967268
+      Big Waddle Dee 4x Reverse_55: 8996138701960292597
+      Big Waddle Dee 4x Reverse_56: -5413678069750532145
+      Big Waddle Dee 4x Reverse_57: -8343873019123658630
+      Big Waddle Dee 4x Reverse_58: 4000419014496045119
+      Big Waddle Dee 4x Reverse_59: 840190699345634445
+      Big Waddle Dee 4x Reverse_6: -7749284280049235061
+      Big Waddle Dee 4x Reverse_60: 7199893540951747527
+      Big Waddle Dee 4x Reverse_61: -7311642255551243073
+      Big Waddle Dee 4x Reverse_62: -5302448168132739602
+      Big Waddle Dee 4x Reverse_63: -7229717467781394055
+      Big Waddle Dee 4x Reverse_64: 5687585353955061400
+      Big Waddle Dee 4x Reverse_65: 7208409956382160437
+      Big Waddle Dee 4x Reverse_66: 3493538200894945312
+      Big Waddle Dee 4x Reverse_7: -2092601869510959212
+      Big Waddle Dee 4x Reverse_8: -5514941434598575592
+      Big Waddle Dee 4x Reverse_9: 8521560959305834172
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -3,12 +3,12 @@ using UnityEngine;
 // 기본적인 스탯 기능을 추가
 public class BaseStat : MonoBehaviour
 {
-    public string Name { get; set; }
-    public int Life { get; set; }
+    [field: SerializeField] public string Name { get; set; }
+    [field: SerializeField] public int Life { get; set; }
 
-    public float Hp { get; set; }
+    [field: SerializeField] public float Hp { get; set; }
     
-    public float Attack { get; set; }
+    [field: SerializeField] public float Attack { get; set; }
     
     public enum AbilityType
     { 

@@ -1,0 +1,1782 @@
+fileFormatVersion: 2
+guid: 048d1686ba1cf9f47823928d412111cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1574149478967280317
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_0
+  - first:
+      213: -3734753149968140635
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_1
+  - first:
+      213: 5124529450099071873
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_2
+  - first:
+      213: -6733719924915365439
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_3
+  - first:
+      213: 1830447717691023386
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_4
+  - first:
+      213: 3249074946705583667
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_5
+  - first:
+      213: -1439811198363893908
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_6
+  - first:
+      213: -3554141832849676224
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_7
+  - first:
+      213: 1303286945390989104
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_8
+  - first:
+      213: -2542565462854964581
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_9
+  - first:
+      213: -9178884334175760886
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_10
+  - first:
+      213: -4627304833212137707
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_11
+  - first:
+      213: 8233232512051745368
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_12
+  - first:
+      213: 6844575151073939521
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_13
+  - first:
+      213: 5012743057933381634
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_14
+  - first:
+      213: 5980663927873727076
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_15
+  - first:
+      213: -2065458389800060080
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_16
+  - first:
+      213: -3992533518416086953
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_17
+  - first:
+      213: -5737662336352434045
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_18
+  - first:
+      213: 2041522290402538352
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_19
+  - first:
+      213: 3993321690340005925
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_20
+  - first:
+      213: -2223840094838564180
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_21
+  - first:
+      213: -2989875673530198551
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_22
+  - first:
+      213: 1685688245378718562
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_23
+  - first:
+      213: 6341870439764480558
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_24
+  - first:
+      213: 8473283500353839631
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_25
+  - first:
+      213: -290518477176468050
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_26
+  - first:
+      213: 5461444941683578396
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_27
+  - first:
+      213: -4787167721435252904
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_28
+  - first:
+      213: -5095824328710933153
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_29
+  - first:
+      213: 221224124679080170
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_30
+  - first:
+      213: 7731993922987608221
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_31
+  - first:
+      213: 5153530168438305049
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_32
+  - first:
+      213: -6899239614795285668
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_33
+  - first:
+      213: 4118549142400808918
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_34
+  - first:
+      213: 9120034864965254715
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_35
+  - first:
+      213: -7594965971144196456
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_36
+  - first:
+      213: 7893462105660969405
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_37
+  - first:
+      213: 3102745779277637321
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_38
+  - first:
+      213: 4870667046729424699
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_39
+  - first:
+      213: -2804470425255368389
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_40
+  - first:
+      213: 2633587248773380144
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_41
+  - first:
+      213: 6867195674304899465
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_42
+  - first:
+      213: -984262822735545073
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_43
+  - first:
+      213: 6160553012456132720
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_44
+  - first:
+      213: 490277624462177503
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_45
+  - first:
+      213: -4653811415328026171
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_46
+  - first:
+      213: 6190631428644582654
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_47
+  - first:
+      213: -7893407451530255628
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_48
+  - first:
+      213: -1471652882916152968
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_49
+  - first:
+      213: -4515653219608953600
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_50
+  - first:
+      213: -2315588123727590742
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_51
+  - first:
+      213: 7948168328687969812
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_52
+  - first:
+      213: 369306174842801610
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_53
+  - first:
+      213: 6844944232580731355
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_54
+  - first:
+      213: -2892932654543238255
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_55
+  - first:
+      213: 7170480997617125502
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_56
+  - first:
+      213: -1998527009899373273
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_57
+  - first:
+      213: 942355471414409255
+    second: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+      Breeze - Backgrounds 4x_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 6335
+        width: 870
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db206356c9088d510800000000000000
+      internalID: 1574149478967280317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 5463
+        width: 2690
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6b0643ccd7b2cc0800000000000000
+      internalID: -3734753149968140635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_2
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 5395
+        width: 866
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18bde2a426cfd1740800000000000000
+      internalID: 5124529450099071873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_3
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 5395
+        width: 658
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c91372b7650d82a0800000000000000
+      internalID: -6733719924915365439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 4491
+        width: 1346
+        height: 898
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10e5e8408e076910800000000000000
+      internalID: 1830447717691023386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_5
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 3659
+        width: 1154
+        height: 1730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ee10f1378071d20800000000000000
+      internalID: 3249074946705583667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 4423
+        width: 870
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ff3e1f753c40ce0800000000000000
+      internalID: -1439811198363893908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3743
+        width: 1346
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048a3ab65d62daec0800000000000000
+      internalID: -3554141832849676224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3675
+        width: 866
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f0f6c5294361210800000000000000
+      internalID: 1303286945390989104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2995
+        width: 1346
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a6a50ce2ef6bcd0800000000000000
+      internalID: -2542565462854964581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_10
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 3591
+        width: 554
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e4e03745d0e9080800000000000000
+      internalID: -9178884334175760886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2927
+        width: 1162
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f31fc45c288cfb0800000000000000
+      internalID: -4627304833212137707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_12
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 2719
+        width: 1154
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8529a022951524270800000000000000
+      internalID: 8233232512051745368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2151
+        width: 1346
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1405a36f5d0dcfe50800000000000000
+      internalID: 6844575151073939521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_14
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 2651
+        width: 554
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200bc66a047d09540800000000000000
+      internalID: 5012743057933381634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2083
+        width: 894
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ae7edc7269ff250800000000000000
+      internalID: 5980663927873727076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_16
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1811
+        width: 1250
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bfd99a9840653e0800000000000000
+      internalID: -2065458389800060080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_17
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1051
+        width: 1026
+        height: 1026
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758f7f81beba798c0800000000000000
+      internalID: -3992533518416086953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_18
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1743
+        width: 1334
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3884398218abf50b0800000000000000
+      internalID: -5737662336352434045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_19
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 1026
+        height: 1030
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0733c78e4b1f45c10800000000000000
+      internalID: 2041522290402538352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_20
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 967
+        width: 1346
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528149a7be02b6730800000000000000
+      internalID: 3993321690340005925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_21
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 187
+        width: 1346
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa50e557355321e0800000000000000
+      internalID: -2223840094838564180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_22
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 107
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e596ac7ae3d186d0800000000000000
+      internalID: -2989875673530198551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_23
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 95
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b99db2784c46710800000000000000
+      internalID: 1685688245378718562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_24
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 107
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2256b57099d20850800000000000000
+      internalID: 6341870439764480558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_25
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 107
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02e4cf3376279570800000000000000
+      internalID: 8473283500353839631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_26
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 107
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead8537fbfed7fbf0800000000000000
+      internalID: -290518477176468050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_27
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 107
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16576d0d33facb40800000000000000
+      internalID: 5461444941683578396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_28
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 107
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857b2a32250909db0800000000000000
+      internalID: -4787167721435252904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_29
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 107
+        width: 74
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55346995cef749b0800000000000000
+      internalID: -5095824328710933153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_30
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 95
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae84e375b22f11300800000000000000
+      internalID: 221224124679080170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_31
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 107
+        width: 74
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98c721d18f8d4b60800000000000000
+      internalID: 7731993922987608221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_32
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 139
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91136053264058740800000000000000
+      internalID: 5153530168438305049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_33
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 107
+        width: 74
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bf2d3cf1af040a0800000000000000
+      internalID: -6899239614795285668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_34
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 95
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d73acebf96082930800000000000000
+      internalID: 4118549142400808918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_35
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 107
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e7e61c36fd09e70800000000000000
+      internalID: 9120034864965254715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_36
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 107
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e35c860b2499690800000000000000
+      internalID: -7594965971144196456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_37
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 107
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1dde7b6f53b8d60800000000000000
+      internalID: 7893462105660969405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_38
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 95
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6af22e8da2f0b20800000000000000
+      internalID: 3102745779277637321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_39
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 107
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f12838fd5189340800000000000000
+      internalID: 4870667046729424699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_40
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 107
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39a097c1058419d0800000000000000
+      internalID: -2804470425255368389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_41
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 107
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038b22046a16c8420800000000000000
+      internalID: 2633587248773380144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_42
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 107
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989ea02f41e2d4f50800000000000000
+      internalID: 6867195674304899465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_43
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 107
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d79357d223752f0800000000000000
+      internalID: -984262822735545073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_44
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 107
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0701967235eae7550800000000000000
+      internalID: 6160553012456132720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_45
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 95
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4f36fd6e0ddc600800000000000000
+      internalID: 490277624462177503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_46
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 107
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c117b9bc275a6fb0800000000000000
+      internalID: -4653811415328026171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_47
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 107
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4bab72c7a89e550800000000000000
+      internalID: 6190631428644582654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_48
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 95
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f22e107ebbf47290800000000000000
+      internalID: -7893407451530255628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_49
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 39
+        width: 118
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8796a190083a39be0800000000000000
+      internalID: -1471652882916152968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_50
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 47
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00dfb5c525d2551c0800000000000000
+      internalID: -4515653219608953600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_51
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 51
+        width: 114
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa8a17bed06ddfd0800000000000000
+      internalID: -2315588123727590742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_52
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 51
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416e476dbf09d4e60800000000000000
+      internalID: 7948168328687969812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_53
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 51
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd0dd4620a002500800000000000000
+      internalID: 369306174842801610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_54
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 51
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1555273802efe50800000000000000
+      internalID: 6844944232580731355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_55
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 51
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b82def31d3ad7d0800000000000000
+      internalID: -2892932654543238255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_56
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 39
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7848abf97aa28360800000000000000
+      internalID: 7170480997617125502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_57
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 51
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d9cece54ec344e0800000000000000
+      internalID: -1998527009899373273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring
+        Breeze - Backgrounds 4x_58
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 47
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7283dc5fe4be31d00800000000000000
+      internalID: 942355471414409255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_0: 1574149478967280317
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_1: -3734753149968140635
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_10: -9178884334175760886
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_11: -4627304833212137707
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_12: 8233232512051745368
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_13: 6844575151073939521
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_14: 5012743057933381634
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_15: 5980663927873727076
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_16: -2065458389800060080
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_17: -3992533518416086953
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_18: -5737662336352434045
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_19: 2041522290402538352
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_2: 5124529450099071873
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_20: 3993321690340005925
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_21: -2223840094838564180
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_22: -2989875673530198551
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_23: 1685688245378718562
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_24: 6341870439764480558
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_25: 8473283500353839631
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_26: -290518477176468050
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_27: 5461444941683578396
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_28: -4787167721435252904
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_29: -5095824328710933153
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_3: -6733719924915365439
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_30: 221224124679080170
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_31: 7731993922987608221
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_32: 5153530168438305049
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_33: -6899239614795285668
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_34: 4118549142400808918
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_35: 9120034864965254715
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_36: -7594965971144196456
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_37: 7893462105660969405
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_38: 3102745779277637321
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_39: 4870667046729424699
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_4: 1830447717691023386
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_40: -2804470425255368389
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_41: 2633587248773380144
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_42: 6867195674304899465
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_43: -984262822735545073
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_44: 6160553012456132720
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_45: 490277624462177503
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_46: -4653811415328026171
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_47: 6190631428644582654
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_48: -7893407451530255628
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_49: -1471652882916152968
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_5: 3249074946705583667
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_50: -4515653219608953600
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_51: -2315588123727590742
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_52: 7948168328687969812
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_53: 369306174842801610
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_54: 6844944232580731355
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_55: -2892932654543238255
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_56: 7170480997617125502
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_57: -1998527009899373273
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_58: 942355471414409255
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_6: -1439811198363893908
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_7: -3554141832849676224
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_8: 1303286945390989104
+      DS _ DSi - Kirby Super Star Ultra - Spring Breeze Backgrounds - Spring Breeze - Backgrounds 4x_9: -2542565462854964581
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

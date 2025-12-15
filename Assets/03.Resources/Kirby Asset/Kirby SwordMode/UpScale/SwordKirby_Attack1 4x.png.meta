@@ -165,8 +165,8 @@ TextureImporter:
         y: 54
         width: 118
         height: 151
-      alignment: 9
-      pivot: {x: 0.6438274, y: 0.22478965}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -187,8 +187,8 @@ TextureImporter:
         y: 63
         width: 126
         height: 142
-      alignment: 9
-      pivot: {x: 0.7104613, y: 0.2465066}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -209,8 +209,8 @@ TextureImporter:
         y: 59
         width: 126
         height: 135
-      alignment: 9
-      pivot: {x: 0.70204306, y: 0.3300038}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -231,8 +231,8 @@ TextureImporter:
         y: 63
         width: 159
         height: 111
-      alignment: 9
-      pivot: {x: 0.78019166, y: 0.41091204}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -251,10 +251,10 @@ TextureImporter:
         serializedVersion: 2
         x: 739
         y: 59
-        width: 175
-        height: 147
-      alignment: 9
-      pivot: {x: 0.4333252, y: 0.29584897}
+        width: 115
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -273,10 +273,10 @@ TextureImporter:
         serializedVersion: 2
         x: 926
         y: 59
-        width: 177
-        height: 147
-      alignment: 9
-      pivot: {x: 0.42209327, y: 0.27420154}
+        width: 115
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -294,11 +294,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1115
-        y: 10
-        width: 259
-        height: 197
-      alignment: 9
-      pivot: {x: 0.21741241, y: 0.45767397}
+        y: 59
+        width: 107
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -316,11 +316,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1387
-        y: 9
-        width: 246
-        height: 197
-      alignment: 9
-      pivot: {x: 0.18523028, y: 0.4415202}
+        y: 59
+        width: 98
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -341,8 +341,8 @@ TextureImporter:
         y: 26
         width: 210
         height: 155
-      alignment: 9
-      pivot: {x: 0.6515323, y: 0.41744733}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -363,8 +363,8 @@ TextureImporter:
         y: 59
         width: 170
         height: 118
-      alignment: 9
-      pivot: {x: 0.6934254, y: 0.2786657}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -385,8 +385,8 @@ TextureImporter:
         y: 59
         width: 150
         height: 122
-      alignment: 9
-      pivot: {x: 0.70507324, y: 0.27822268}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -407,8 +407,8 @@ TextureImporter:
         y: 59
         width: 138
         height: 146
-      alignment: 9
-      pivot: {x: 0.65372723, y: 0.25428385}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -417,6 +417,94 @@ TextureImporter:
       bones: []
       spriteID: 0b144eb564e0e3390800000000000000
       internalID: -7836810606225899088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_Attack1 4x_5
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 143
+        width: 154
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988595f7f5afd3c4992fba09d5e5442e
+      internalID: 6744055691129337685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_Attack1 4x_7
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 143
+        width: 155
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb105545c8afaa3429c47f61f47dd94c
+      internalID: 3696420602953584707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_Attack1 4x_9
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 11
+        width: 190
+        height: 194
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cdeb166969f78429398f0f994865b3
+      internalID: -3521388555836290999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordKirby_Attack1 4x_11
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 11
+        width: 190
+        height: 194
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c1d31af14f4ae49a5b21e5a945ee5a
+      internalID: 1014450299986525024
       vertices: []
       indices: 
       edges: []

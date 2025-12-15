@@ -125,12 +125,12 @@ TextureImporter:
       name: BrontoBurt_Flying 4x_0
       rect:
         serializedVersion: 2
-        x: 51
-        y: 15
-        width: 78
-        height: 78
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 52
+        y: 16
+        width: 76
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -147,12 +147,12 @@ TextureImporter:
       name: BrontoBurt_Flying 4x_1
       rect:
         serializedVersion: 2
-        x: 147
-        y: 15
-        width: 98
-        height: 78
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 148
+        y: 16
+        width: 96
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -169,12 +169,12 @@ TextureImporter:
       name: BrontoBurt_Flying 4x_2
       rect:
         serializedVersion: 2
-        x: 263
-        y: 15
-        width: 74
-        height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 264
+        y: 16
+        width: 72
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -191,12 +191,12 @@ TextureImporter:
       name: BrontoBurt_Flying 4x_3
       rect:
         serializedVersion: 2
-        x: 355
-        y: 15
-        width: 98
-        height: 78
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 356
+        y: 16
+        width: 96
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -213,7 +213,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 6a2f0dde80755784c9fc69cc9c813c4a
     internalID: 0
     vertices: []
     indices: 
@@ -221,7 +221,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       BrontoBurt_Flying 4x_0: -618319860061214959
       BrontoBurt_Flying 4x_1: 8608382778171271600

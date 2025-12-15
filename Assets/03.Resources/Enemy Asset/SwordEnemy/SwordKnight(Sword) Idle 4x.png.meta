@@ -137,12 +137,12 @@ TextureImporter:
       name: SwordKnight(Sword) Idle 4x_0
       rect:
         serializedVersion: 2
-        x: 47
-        y: 23
-        width: 126
-        height: 94
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 48
+        y: 24
+        width: 124
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -159,12 +159,12 @@ TextureImporter:
       name: SwordKnight(Sword) Idle 4x_1
       rect:
         serializedVersion: 2
-        x: 191
-        y: 23
-        width: 118
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 192
+        y: 24
+        width: 116
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -181,12 +181,12 @@ TextureImporter:
       name: SwordKnight(Sword) Idle 4x_2
       rect:
         serializedVersion: 2
-        x: 327
-        y: 23
-        width: 106
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 328
+        y: 24
+        width: 104
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -203,12 +203,12 @@ TextureImporter:
       name: SwordKnight(Sword) Idle 4x_3
       rect:
         serializedVersion: 2
-        x: 451
-        y: 23
-        width: 118
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 452
+        y: 24
+        width: 116
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -225,12 +225,12 @@ TextureImporter:
       name: SwordKnight(Sword) Idle 4x_4
       rect:
         serializedVersion: 2
-        x: 587
-        y: 23
-        width: 126
-        height: 94
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 588
+        y: 24
+        width: 124
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -247,12 +247,12 @@ TextureImporter:
       name: SwordKnight(Sword) Idle 4x_5
       rect:
         serializedVersion: 2
-        x: 731
-        y: 23
-        width: 78
-        height: 102
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 732
+        y: 24
+        width: 76
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -269,12 +269,12 @@ TextureImporter:
       name: SwordKnight(Sword) Idle 4x_6
       rect:
         serializedVersion: 2
-        x: 827
-        y: 23
-        width: 74
-        height: 102
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 828
+        y: 24
+        width: 72
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -291,12 +291,12 @@ TextureImporter:
       name: SwordKnight(Sword) Idle 4x_7
       rect:
         serializedVersion: 2
-        x: 919
-        y: 23
-        width: 78
-        height: 102
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 920
+        y: 24
+        width: 76
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -313,7 +313,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: a64cbbab7fdbda34991856324b496534
     internalID: 0
     vertices: []
     indices: 
@@ -321,7 +321,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       SwordKnight(Sword) Idle 4x_0: -3791526000539627040
       SwordKnight(Sword) Idle 4x_1: -2489726407217312344
